@@ -1,0 +1,172 @@
+﻿body {
+}
+
+
+
+#chitiet {
+    display: flex;
+}
+
+.p-1 {
+    width: 30%;
+    padding: 5px;
+}
+
+
+
+.pic1 {
+    max-height: 54%;
+    max-width: 62%;
+    padding: 48px;
+    border: 2px solid #7da0a0;
+    margin-top: 22px;
+    margin-left: 30px;
+}
+
+.p-2 {
+    width: 50%;
+}
+
+.p-2_1 ul {
+    display: flex;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    width: 904px;
+    height: 49px;
+    margin-left: 28px;
+    /* margin-right: -83px; */
+    background-color: #f1eef5;
+}
+
+.p-2_1 {
+    width: 100px;
+}
+
+
+.p-2_1 ul li {
+    padding-right: 6px;
+    list-style-type: none;
+    width: 86px;
+    /* line-height: 6px; */
+    margin-left: -2px;
+    background-color: #f0edf3;
+}
+
+.milk_name {
+    line-height: 35px;
+    margin-top: 5px;
+    width: 70px;
+    margin-left: -25px;
+    height: 35px;
+}
+
+
+
+.Infor {
+    font-size: 30px;
+    margin-left: 30px;
+    background: aqua;
+    width: 128%;
+    border-left: 5px solid #1f3de2;
+    padding: 6px;
+}
+
+.p-2_2 p {
+    margin-left: 30px;
+    margin-top: -20px;
+    font-size: 18px;
+}
+
+.table_Infor li {
+    display: block;
+    overflow: hidden;
+    background: #fff;
+    border-bottom: 1px solid #ecf0f1;
+    padding: 10px 5px;
+}
+
+.table_Infor li span{
+    display: inline-block;
+    vertical-align: top;
+    overflow: hidden;
+    font-size: 17px;
+    color: #999;
+    width: 18%;
+}
+
+.table_Infor li div{
+    display: inline-block;
+    vertical-align: top;
+    font-size: 17px;
+    color: #4a4a4a;
+    width: 80%;
+}
+
+.p-3 {
+    width: 20%;
+    height: 445px;
+}
+
+.p-3 h1 {
+    font-size: 30px;
+    margin-top: 85px;
+    text-align: center;
+    margin-left: -116px;
+    margin-right: 29px;
+}
+
+.p-3 h2 {
+    font-size: 25px;
+    color: red;
+    /* border: 1px solid gray; */
+    height: 40px;
+    line-height: 40px;
+    margin-left: -102px;
+    margin-right: 67%;
+}
+
+.p-3 h3 {
+    font-size: 25px;
+    border: 2px solid olivedrab;
+    margin-left: -35%;
+    margin-right: 37px;
+    text-align: center;
+    background: greenyellow;
+    color: darkblue;
+    height: 43px;
+    line-height: 43px;
+}
+
+.sl {
+    margin-left: -100px
+}
+
+.p-3_1 {
+    background-color: #e9ebe6;
+    margin-left: -76px;
+    margin-left: -100px;
+    margin-right: 38px;
+}
+
+
+.camket div {
+    display: inline-block;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    font-size: 8px;
+    margin-left: 96px;
+    margin-right: 96px;
+}
+
+.camket {
+    border-top: 1px solid black;
+    height: 146px;
+    line-height: 19px;
+}
+
+.imgkc {
+    width: 60px;
+    height: 60px;
+    margin-top: 18px;
+}

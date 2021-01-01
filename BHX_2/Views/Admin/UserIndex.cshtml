@@ -1,0 +1,50 @@
+﻿@model IEnumerable<BHX_2.Models.User>
+@using PagedList.Mvc
+@{
+    ViewBag.Title = "UserIndex";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+<link rel="stylesheet" href="~/Content/Mine/PagedList.css">
+
+
+<table class="table table-bordered">
+    <tr class="head">
+        <th>
+            ID
+        </th>
+        <th>
+            Username
+        </th>
+        <th>
+            Số điện thoại
+        </th>
+        <th>
+            Email
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr class="sp">
+            <td>
+                @Html.DisplayFor(modelItem => item.idUser)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Username)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Phone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.ActionLink("Block", "Block", new { id = item.idUser }) |
+                @Html.ActionLink("Details", "Details", new { id = item.idUser }) |
+            </td>
+        </tr>
+    }
+
+</table>
+

@@ -1,0 +1,182 @@
+﻿<!DOCTYPE html>
+
+<html lang="vi">
+<head>
+    @*<script>var postJquery = [];</script>*@
+    <meta name="viewport" content="width=device-width" />
+    <meta content="text/html; charset=iso-8859-2" http-equiv="Content-Type">
+    
+
+    <style>
+        .mySlides {
+            display: none;
+        }
+    </style>
+    <meta charset="utf-8" />
+    <meta name="description" content="PINKY STORE xịn xò" />
+    <meta name="author" content="TQ" />
+    <link rel="stylesheet" href="~/Content/Mine/layout.css" />
+    <link rel="stylesheet" href="~/Content/Mine/Milk.css" />
+    <link rel="stylesheet" href="~/Content/fontawesome-free-5.15.1-web/css/all.min.css">
+    <link rel="stylesheet" href="~/Content/fontawesome-free-5.15.1-web/css/fontawesome.min.css">
+    <link href="https://fonts.googleapis.com/css2? family = Henny + Penny & display = swap" rel="stylesheet">
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <div id="container">
+        <!--Bao phủ toàn trang-->
+        <div id="header">
+            <div class="header-1">
+                <img class="img1" src="~/Content/Images/Logo/Logo_2.gif" alt="" />
+                <div>
+                    <h1>PINKY STORE</h1>
+                </div>
+
+            </div>
+            <div class="header-2 mar">
+                <div>
+                    <!--<marquee>MUA ĐI CHỜ CHI</marquee>-->
+                </div>
+
+            </div>
+            <div class="header-3">
+                <div class="search">
+                    <div class="search-1">
+                        <span class="icon"><i class="fas fa-search"></i></span>
+                        <input type="search" id="search" placeholder="Search..." />
+                        <button type="button" title="Search" value="Search" onclick="location.href='@Url.Action("Search", "HomeBHX",new { result = ViewBag.re})'" style="height:18px;width:60px">Search</button>
+
+                    </div>
+                </div>
+
+                <div class="login">
+                    @{
+                        if (Session["Username"] == null)
+                        {
+                            <ul>
+                                <li><a href="~/Login/SignIn"><b>Sign in</b></a></li>
+                                <li><a href="~/Login/SignUp"><b>Sign up</b></a></li>
+                            </ul>
+                        }
+                        else
+                        { <ul>
+                                <li><a href="~/Login/LogOut"><b>Log out</b></a></li>
+                                <li><a class="name" style="font-size: 15px; text-decoration: none; color: black; margin-left: 10px" href="#"><b>Xin chào @Session["Username"]</b></a></li>
+                            </ul>
+
+                        }
+                    }
+                </div>
+
+                @{
+
+                    if (Session["Username"] == null)
+                    {
+                        <h2> <i class="fas fa-shopping-basket"></i></h2>
+                        <p><a href="~/Cart/Index"><b>Giỏ hàng</b></a></p>
+                    }
+                    else if (Session["Lever"] == "1")
+                    {
+                        <a class="name" style="font-size: 15px; text-decoration: none; color: black; margin-left: 10px" href="~/Admin/Index"><b>Admin</b></a> }
+                    else
+                    {
+                        <a style="font-size: 15px; text-decoration: none; color: black; padding: 5px; border-right: 1px solid black;" href="~/User/Index"><b>Cá nhân</b></a>
+                        <h2> <i class="fas fa-shopping-basket"></i></h2>
+                        <p><a href="~/Cart/Index"><b>Giỏ hàng</b></a></p>
+                    }
+                }
+
+            </div>
+        </div>
+
+
+        <div id="menu">
+            <ul>
+                <li id="firstLiMenu"><a href="~/HomeBHX/HomeBHX"><b style="color: red">Trang chủ</b></a></li>
+                <li>
+                    <a href="#">Danh mục sản phẩm<span class="arrow">&#9660;</span></a>
+                    <ul class="sub-menu">
+                        <li><a href="@Url.Action("LoadList","ListProducts",new { KeyG = "Vegetable" })">Rau an toàn</a></li>
+                        <li><a href="@Url.Action("LoadList","ListProducts",new { KeyG = "EggFishMeat"})">Thịt, cá, trứng các loại</a></li>
+                        <li><a href="@Url.Action("LoadList","ListProducts", new {KeyG = "Drink"} )">Đồ uống các loại</a></li>
+                        <li><a href="@Url.Action("LoadList","ListProducts",new { KeyG = "Milk"})">Sữa các lọai</a></li>
+                        <li><a href="@Url.Action("LoadList","ListProducts",new { KeyG = "Cake"})">Bánh kẹo các loại</a></li>
+                        <li><a href="@Url.Action("LoadList","ListProducts",new { KeyG = "Noodle"})">Mì, cháo, phở ăn liền</a></li>
+                        <li><a href="@Url.Action("LoadList","ListProducts",new { KeyG = "Spice"})">Gia vị các loại</a></li>
+                        <li><a href="@Url.Action("LoadList","ListProducts",new { KeyG = "DryFood"})">Gạo, thực phẩm khô</a></li>
+                        <li><a href="@Url.Action("LoadList","ListProducts",new { KeyG = "FrozenFood"})">Đồ đông lạnh các loại</a></li>
+                        <li><a href="@Url.Action("LoadList","ListProducts",new { KeyG = "BabyPro"})">Sản phẩm cho bé</a></li>
+                        <li><a href="@Url.Action("LoadList","ListProducts",new { KeyG = "TakeCare"})">Chăm sóc cá nhân</a></li>
+                        <li><a href="@Url.Action("LoadList","ListProducts",new { KeyG = "CleanTool"})">Vệ sinh nhà cửa</a></li>
+                        <li><a href="@Url.Action("LoadList","ListProducts",new { KeyG = "Household"})">Đồ dùng gia đình</a></li>
+                    </ul>
+                </li>
+
+                <li><a href="~/HomeBHX/ThongTin">Thông tin</a></li>
+                <li><a href="~/HomeBHX/KhachHang">Khách hàng thân thiết</a></li>
+                <li><a href="~/HomeBHX/HoiDap">Hỏi đáp</a></li>
+                <li><a href="~/HomeBHX/LienHe">Liên hệ</a></li>
+            </ul>
+        </div><!--Menu-->
+
+        <div id="content">
+            <!--Ở giữa-->
+            <div>
+                @RenderBody()
+            </div>
+            <hr />
+
+            <div id="footer">
+                <div class="footer-3">
+                    <ul>
+                        <li>
+                            <h1><img src="~/Content/Images/Logo/Logo_2.gif" class="imgfooter" /></h1>
+                        </li>
+                        <li>
+                            <h3>
+                                PINKY STORE là nơi cung cấp các mặt hàng sản phẩm chất lượng và uy tín trên cả nước và nước ngoài.
+                                PINKY STORE rất hân hạnh được phục vụ quý khách
+                            </h3>
+                        </li>
+
+                    </ul>
+
+                </div>
+
+                <div class="footer-1-2">
+                    <div class="footer-1">
+                        <h1>THÔNG TIN LIÊN HỆ</h1>
+                        <h2>Tổng đài: 1900.1900 (7:00 - 21:00)</h2>
+                        <h2>Email: pkst@hmail.com</h2>
+                    </div>
+                    <div class="footer-2">
+                        <ul>
+                            <li>Chính sách giao hàng</li>
+                            <li>Chính sách đổi trả</li>
+                            <li>Quy chế hoạt động</li>
+                            <li>Thông tin cửa hàng</li>
+                        </ul>
+                        <h1><img class="img2" src="~/Content/Images/logoSaleNoti.png" /></h1>
+                    </div>
+                </div>
+
+                <div class="footer-4">
+                    <h1>KẾT NỐI VỚI CHÚNG TÔI</h1>
+                    <ul>
+                        <li><i class="fab fa-facebook"></i></li>
+                        <li><i class="fab fa-instagram-square"></i></li>
+                        <li><i class="fab fa-youtube"></i></li>
+                    </ul>
+
+                </div>
+
+
+
+            </div><!--footer-->
+
+        </div><!--Content-->
+
+    </div><!--container-->
+    @*<script>for (var i = 0; i < postJquery.length; i++) postJquery[i]();</script>*@    
+</body>
+</html>

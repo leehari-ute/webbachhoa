@@ -1,0 +1,78 @@
+﻿body {
+}
+
+#milk {
+    font-size: 20px;
+    width: 90%;
+    display: flex;
+}
+
+    #milk .milk_1 {
+        width: 43%;
+    }
+
+
+.milk_1 ul li {
+    display: block;
+}
+
+.imgmilk_1 {
+    width: 305px;
+    height: 172px;
+}
+
+.milk_2 ul li {
+    width: 176px;
+    display: inline-grid;
+    border: 1px solid brown;
+    margin: 3px;
+    font-size: 18px;
+}
+
+.imgmilk_2 {
+    margin-top: 21px;
+    height: 109px;
+    width: 141px;
+    padding: 5px;
+    margin-left: 15px;
+    margin-right: 5px;
+}
+
+.milk_2 h2 {
+    font-size: 15px;
+    list-style-type: none;
+    height: 11px;
+    text-align: center;
+}
+
+.milk_2 a {
+    text-decoration: none;
+}
+
+.milk_2 h3 {
+    font-size: 15px;
+    height: 0px;
+    color: red;
+    text-align: center;
+}
+
+.giohang {
+    border: 1.5px solid #599646;
+    margin-left: 17px;
+    margin-right: 17px;
+    height: 28px;
+    line-height: 28px;
+    text-align: center;
+    font-size: 17px;
+    color: #351cc8;
+}
+
+.milk_2 h1 {
+    font-size: 20px;
+    text-align: center;
+    background-color: aqua;
+    height: 41px;
+    line-height: 41px;
+    margin-top: 21px;
+    width: 99%;
+}

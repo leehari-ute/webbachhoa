@@ -1,0 +1,107 @@
+﻿
+.form-login{
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;  
+}
+
+
+#checkbox1{
+}
+
+.loginbox {
+    width: 300px;
+    height: 440px;
+    margin-left: 42%;
+    margin-top: 32px;
+    border: 1px solid green;
+    border-radius: 20px;
+    background-image: url(Images/background.jpg);
+}
+
+.loginbox h2{
+    color:#188e3c;
+    font-size: 20px;
+    text-align:center;
+}
+.signupbox {
+    width: 300px;
+    height: 594px;
+    margin-left: 42%;
+    margin-top: 32px;
+    border: 1px solid green;
+    border-radius: 20px;
+    background-image: url(Images/background.jpg);
+    margin-bottom: 20px;
+}
+.signupbox h2{
+    text-align: center; 
+    color: #188e3c;
+    font-size: 20px;
+}
+.div-title {
+    margin-left: 50px;
+    color: darkgreen;
+    margin-top: 12px;
+}
+
+.input1 {
+    width: 190px;
+    height: 30px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    padding-left: 20px;
+    border: 1px inset green;
+    margin-left: 50px;
+}
+
+.input-button {
+    margin-top: 16px;
+    margin-left: 72px;
+    background-color: #91c343;
+}
+
+#submitInput{
+    margin-left: 0px;
+}
+#signup {
+    color: #3CB371;
+    font-family: sans-serif;
+    margin-left: 105px;
+}
+#login {
+    color: #3CB371;
+    font-family: sans-serif;
+    margin-left: 119px;
+}
+
+#img-login {
+    display: block;
+    max-height: 230px;
+    max-width: 95px;
+    width: auto;
+    height: auto;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+

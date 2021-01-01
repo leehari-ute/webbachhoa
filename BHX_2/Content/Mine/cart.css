@@ -1,0 +1,43 @@
+﻿body {
+}
+
+.gio {
+    font-size: 25px;
+    background-color: blueviolet;
+    width: 55%;
+    margin-left: 22%;
+    text-align: center;
+    height: 43px;
+    line-height: 43px;
+    color: white;
+}
+
+.thongbao {
+    font-size: 20px;
+    text-align: center;
+}
+
+.table-bordered {
+    font-size: 20px;
+    /* background-color: aqua; */
+    margin-left: 323px;
+    /* border-top: 1px solid black; */
+    /* max-width: 61%; */
+}
+
+.donhang {
+    font-size: 20px;
+    margin-left: 10%;
+}
+
+.sta {
+    /* font-size: unset; */
+    margin-left: 10%;
+    font: -webkit-control;
+    background-color: #da9d3c;
+    width: 7%;
+    text-align: center;
+    line-height: 27px;
+    height: 27px;
+    color: antiquewhite;
+}

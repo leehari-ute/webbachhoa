@@ -1,0 +1,46 @@
+﻿    
+<link rel="stylesheet" type="text/css" href="~/Content/Mine/Site.css" />
+
+@model BHX_2.Models.User
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout_1.cshtml";
+}
+    
+<body>
+    <form class="form-login" action="SignIn" method="post">
+        <div class="loginbox">
+            <img id="img-login" src="~/Content/Images/Logo/Logo_2.gif" />
+            <h2>
+                Sign In
+            </h2>
+            <div>
+                <div class="div-title">
+                    Username
+                </div>
+                <div>
+                    <input class="input1" type="text" placeholder="Username" name="Username" required />
+                </div>
+                <div class="div-title">
+                    Password
+                </div>
+                <div>
+                    <input class="input1" type="password" placeholder="Password" name="Password" required />
+                </div>
+                <label style="margin-left: 97px">
+                    <input type="checkbox" checked="checked" name="RememberMe"> Remember me
+                </label>
+                <div style="text-align: center; margin-left: 25px">
+                    @Html.ActionLink("Forgot Password?", "ForgotPassword", "Login")
+                </div>
+                <input class="btn-success input-button" type="submit" name="SignIn" value="Sign in" />
+                <input class="btn-success input-button" type="submit" name="SignUp" value="Sign up" />
+            </div>
+        </div>
+    </form>
+</body>
+
+
+
+

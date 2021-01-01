@@ -1,0 +1,32 @@
+﻿
+
+
+.pagination {
+    display: flex;
+    list-style-type: none;
+}
+
+.pagination a {
+    color: black;
+    border: 1px solid black;
+    transition: background-color .3s;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+.pagination a.active {
+     background-color: #4CAF50;
+     color: red;
+     border: 1px solid #4CAF50;
+}
+
+.pagination a:hover:not(.active) {
+     background-color: #68d3da;
+}
+
+.head{
+    background-color: blueviolet;
+
+}
+

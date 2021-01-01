@@ -1,0 +1,274 @@
+﻿@model PagedList.IPagedList<BHX_2.Models.ListCart>
+@using PagedList.Mvc
+
+<link rel="stylesheet" href="~/Content/Mine/PagedList.css">
+
+@{
+    //ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<style>
+    .body-wraper {
+        display: flex;
+    }
+
+    .user-menu {
+        width: 200px;
+        background-color: #FAEBD7;
+        height: 1000px;
+        margin: 0 10px 0 0;
+    }
+
+    .body-content {
+        background-color: white;
+        padding: 15px;
+        width: 100%;
+        font-size: 13px;
+    }
+
+    button:focus {
+        outline: 0;
+    }
+
+    .bar {
+        padding: 0px;
+        margin: 0px 0px 2px 0px;
+        background-color: white;
+        border-bottom: solid 1px;
+        border-bottom-color: darkgrey;
+    }
+
+        .bar button {
+            border: none;
+            color: dimgrey;
+            padding: 10px 30px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            margin: 0px;
+            cursor: pointer;
+            font-size: 13px;
+            background-color: white;
+        }
+
+        .bar .order-button.b {
+            border-bottom: solid 3px;
+            border-bottom-color: black;
+            color: black;
+            font-weight: bold;
+        }
+
+    .orders table {
+        padding: 15px;
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+        .orders table th {
+            background-color: #e5e5e5;
+        }
+
+    .orders th, td {
+        padding: 15px;
+        color: dimgray;
+        text-align: left;
+    }
+
+    .user-menu-button {
+        width: 100%;
+        border: none;
+        color: dimgrey;
+        padding: 10px;
+        text-align: left;
+        text-decoration: none;
+        display: inline-block;
+        margin: 0px;
+        cursor: pointer;
+        font-size: 13px;
+        background-color: transparent;
+    }
+
+        .user-menu-button.a {
+            background-color: white;
+            font-weight: bold;
+        }
+</style>
+<div class="body-wraper">
+    <div class="body-content">
+        <div id="body2" class="user-body" style="">
+            <div class="bar">
+                <button stat="TatCa" class="order-button b">Tất cả</button>
+                <button stat="Chuaxacnhan" class="order-button">Chưa xác nhận</button>
+                <button stat="Daxacnhan" class="order-button">Đã xác nhận</button>
+                <button stat="Danggiao" class="order-button">Đang giao hàng</button>
+                <button stat="Danhanhang" class="order-button">Đã nhận hàng</button>
+                <button stat="Dahuy" class="order-button">Đã hủy</button>
+            </div>
+        </div>
+        <div class="tabs">
+            <div class="orders">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Đơn hàng</th>
+                            <th>Tổng giá đơn hàng</th>
+                            <th>Trạng Thái</th>
+                            <th>Mã khách hàng</th>
+                            <th></th>
+                        </tr>
+                        @foreach (var item in Model)
+                        {
+                            <tr class="loadpage">
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.IDCart)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.TotalPrice)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Status)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.IDuser)
+                                </td>
+                                <td>
+                                    @if (Session["Lever"] == "1")
+                                    {
+                                        if (item.Status == "Đã xác nhận")
+                                        {
+                                            <a href="@Url.Action("Ship", "Cart",  new { id = item.IDCart })">Giao hàng</a>
+                                        }
+                                        else if (item.Status == "Chưa xác nhận")
+                                        {
+                                            <a href="@Url.Action("Confirm", "Cart",  new { id = item.IDCart })">Xác nhận</a>
+                                        }
+                                        else
+                                        {
+
+                                        }
+                                    }
+                                    else if (Session["Lever"] == "3")
+                                    {
+                                        if (item.Status == "Đang giao hàng")
+                                        {
+                                            <a href="@Url.Action("Received", "Cart",  new { id = item.IDCart })">Đã nhận hàng</a>
+                                        }
+                                        else if (item.Status == "Chưa xác nhận")
+                                        {
+                                            <a href="@Url.Action("Cancel", "Cart",  new { id = item.IDCart })">Hủy</a>
+                                        }
+                                        else
+                                        {
+
+                                        }
+                                    }
+                                    else
+                                    {
+
+                                    }
+
+                                </td>
+                            </tr>
+                        }
+                    </thead>
+                    <tbody class="table1" id="1">
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<br />
+<br />
+    Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber)/@Model.PageCount
+    @Html.PagedListPager(Model, page => Url.Action("GetPaging", new { page }),
+        PagedListRenderOptions.EnableUnobtrusiveAjaxReplacing(new AjaxOptions()
+        { HttpMethod = "GET", UpdateTargetId = "product_area" }))
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    @if (Session["Lever"] == "1")
+    {
+        <script>
+        $(function () {
+            $(".order-button").click(function () {
+                var stat = $(this).attr("stat");
+                $(".order-button").removeClass("order-button b").addClass("order-button");
+                $(this).addClass("order-button b");
+                $(".loadpage").remove();
+                $.ajax({
+                    url: "/Products/GetOrders",
+                    data: { stat: stat },
+                    success: function (response) {
+                        $(".table1").html("");
+                        $(response).each(function (i, e) {
+                            var tr = $("<tr/>");
+                            var confirm = '@(Url.Action("Confirm", "Cart"))';
+                            var ship = '@(Url.Action("Ship","Cart"))';                      
+                            $("<td/>").html(e.IDCart).appendTo(tr);
+                            $("<td/>").html(e.TotalPrice).appendTo(tr);
+                            $("<td/>").html(e.Status).appendTo(tr);
+                            $("<td/>").html(e.IDuser).appendTo(tr);
+                            if (e.Status == "Đã xác nhận") {
+                                $("<td/>").append("<a href='" + ship + "?id=" + e.IDCart + "'>" + "Giao hàng" + "</a>").appendTo(tr);
+                            }
+                            else if (e.Status == "Chưa xác nhận") {
+                                $("<td/>").append("<a href='" + confirm + "?id=" + e.IDCart + "'>" + "Xác nhận" + "</a>").appendTo(tr);
+                            }
+                            else { }
+                            tr.appendTo(".table1");
+                        });
+                    }
+                });
+            });
+        });
+        </script>
+    }
+    else if (Session["Lever"] == "3")
+    {
+        <script>
+        $(function () {
+            $(".order-button").click(function () {
+                var stat = $(this).attr("stat");
+                $(".order-button").removeClass("order-button b").addClass("order-button");
+                $(this).addClass("order-button b");
+                $(".loadpage").remove();
+                $.ajax({
+                    url: "/Products/GetOrders",
+                    data: { stat: stat },
+                    success: function (response) {
+                        $(".table1").html("");
+                        $(response).each(function (i, e) {
+                            var tr = $("<tr/>");
+                            var cancel = '@(Url.Action("Cancel","Cart"))';
+                            var receive = '@(Url.Action("Received","Cart"))';
+                            $("<td/>").html(e.IDCart).appendTo(tr);
+                            $("<td/>").html(e.TotalPrice).appendTo(tr);
+                            $("<td/>").html(e.Status).appendTo(tr);
+                            $("<td/>").html(e.IDuser).appendTo(tr);
+                            if (e.Status == "Chưa xác nhận") {
+                                $("<td/>").append("<a href='" + cancel + "?id=" + e.IDCart + "'>" + "Hủy" + "</a>").appendTo(tr);
+                            }
+                            else if (e.Status == "Đang giao hàng") {
+                                $("<td/>").append("<a href='" + receive + "?id=" + e.IDCart + "'>" + "Đã nhận hàng" + "</a>").appendTo(tr);
+                            }
+                            else {}
+                            tr.appendTo(".table1");
+                        });
+                    }
+                });
+            });
+        });
+        </script>
+    }
+    else
+    {
+
+    }
+

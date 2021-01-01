@@ -1,0 +1,45 @@
+﻿body {
+}
+
+#danhmuc ul li {
+    background-color: #ed92e4;
+    /* margin-left: -10px; */
+    /* width: 166px; */
+}
+
+#danhmuc ul {
+    list-style-type: none;
+    text-decoration: none;
+    margin-left: -20px;
+    margin-right: 10px;
+
+}
+.sub-danhmuc {
+    background-color: #ed92e4;
+    text-decoration: none;
+    margin-right: 10px;
+    z-index: 10;
+}
+
+.sub-danhmuc li {
+    padding: 8px;
+    margin-left: -20px;
+}
+
+.sub-danhmuc li a {
+    text-decoration: none;
+}
+
+#danhmucsp a  {
+    text-decoration: none;
+}
+
+#danhmucsp {
+    margin-left: -20px;
+    border: 2px solid black;
+    margin-top: 40px;
+}
+
+#danhmuc ul li > .sub-danhmuc :hover {
+    background-color: white;
+}

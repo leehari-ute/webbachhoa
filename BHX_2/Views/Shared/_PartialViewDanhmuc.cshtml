@@ -1,0 +1,29 @@
+﻿<div id="danhmuc">
+    <ul>
+        <li id="danhmucsp">
+            <a href="#"><h1 style=" color: #0a0b0b; font-size: 20px; display: inline-block; margin-left: 10px;">Danh mục sản phẩm</h1><span class="arrow">&#9660;</span></a>
+        </li>
+        <li>
+            <ul class="sub-danhmuc">
+                <li><a href="@Url.Action("LoadList","ListProducts",new { KeyG = "Vegetable"})">Rau an toàn</a></li>
+                <li><a href="@Url.Action("LoadList","ListProducts",new { KeyG = "EggFishMeat"})">Thịt, cá, trứng các loại</a></li>
+                <li><a href="@Url.Action("LoadList","ListProducts", new {KeyG = "Drink"} )">Đồ uống các loại</a></li>
+                <li><a href="@Url.Action("LoadList","ListProducts",new { KeyG = "Milk"})">Sữa các lọai</a></li>
+                <li><a href="@Url.Action("LoadList","ListProducts",new { KeyG = "Cake"})">Bánh kẹo các loại</a></li>
+                <li><a href="@Url.Action("LoadList","ListProducts",new { KeyG = "Noodle"})">Mì, cháo, phở ăn liền</a></li>
+                <li><a href="@Url.Action("LoadList","ListProducts",new { KeyG = "Spice"})">Gia vị các loại</a></li>
+                <li><a href="@Url.Action("LoadList","ListProducts",new { KeyG = "DryFood"})">Gạo, thực phẩm khô</a></li>
+                <li><a href="@Url.Action("LoadList","ListProducts",new { KeyG = "FrozenFood"})">Đồ đông lạnh các loại</a></li>
+                <li><a href="@Url.Action("LoadList","ListProducts",new { KeyG = "BabyPro"})">Sản phẩm cho bé</a></li>
+                <li><a href="@Url.Action("LoadList","ListProducts",new { KeyG = "TakeCare"})">Chăm sóc cá nhân</a></li>
+                <li><a href="@Url.Action("LoadList","ListProducts",new { KeyG = "CleanTool"})">Vệ sinh nhà cửa</a></li>
+                <li><a href="@Url.Action("LoadList","ListProducts",new { KeyG = "Household"})">Đồ dùng gia đình</a></li>
+            </ul>
+        </li>
+    </ul>
+    
+        
+        
+</div>
+
+<link rel="stylesheet" type="text/css" href="~/Content/Mine/danhmuc.css" />

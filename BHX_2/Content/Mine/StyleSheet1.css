@@ -1,0 +1,132 @@
+﻿/*body {
+}
+
+#menu ul{
+    list-style-type: none;
+    background-color: #54b6a9;
+    padding: 0;
+    margin: 0;
+}
+#menu ul li{
+    display: inline-block;
+    line-height: 2.9em;
+    height: 2.9em;
+    position: relative;
+}
+#menu ul li a{
+    display: block;
+    color: #000000;
+    padding: 0 1em;
+    border-bottom: 1px, solid #333;
+}
+#menu li:hover{
+    background-color: #f0e2ba;
+    
+}
+
+
+#menu li:hover  .sub-menu {
+   z-index: 1;
+   opacity: 1;
+}
+
+#menu ul li > .sub-menu {
+    display: none;
+    width: 160%;
+    padding: 5px 0px;
+    top: 100%;
+    left: 0px;
+    z-index: -1;
+    position: absolute;
+    opacity: 0;
+    box-shadow: 0px 2px 3px rgba(0,0,0,0.2);
+    transition: opacity linear 0.15s;
+    box-shadow: #a263e7;
+    background: #d8de0a;
+}
+
+.sub-menu li{
+    display:block;
+    font-size: 16px;
+}
+
+.sub-menu li a{
+    padding: 10px 30px;
+    display:block;
+}
+
+.sub-menu li a:hover, .sub-menu{
+    background: #f0e2ba;
+    border-color:blueviolet;
+}
+#menu ul li:hover .sub-menu{
+    display:block;
+}
+
+.sub-menu::after{
+    content "";
+    display:block;
+    position:absolute;
+    top:-8px;
+    right:50px;
+    width:50px;
+    height:10px;
+}
+
+.header_navbar-user:hover .sub-menu{
+    display:block;
+}
+
+.sub-menu li:hover {
+    font-size: 16px;
+}
+
+.sub-menu li a {
+    padding: 10px 30px;
+    display: block;
+    position: absolute;
+}
+
+
+.sub-menu li a:hover, sub-menu {
+    background: #f0e2ba;
+}
+Menu
+
+#content{
+    padding: 1em 8em;
+
+}
+#header, .call_to_action{
+    text-align: center;
+}
+#sologan{
+    color: #a719cb;
+    font-size: 0.8em;
+}
+
+.call_to_action{
+    padding: 1.5em 20%;
+    background: #808080;
+    border: 1px solid #71314f;
+}
+
+.row{
+    overflow: auto;
+    margin: 1.5em auto;
+}
+.row .col {
+    float: left;
+    width: 31.33333%;
+    margin-right: 0;
+}
+
+.row .col img{
+    float: left;
+    margin-right: 1em;
+}
+
+#footer{
+    font-size: 85%;
+    border-top: 1px solid #e9761b;
+}*/

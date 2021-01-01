@@ -1,0 +1,57 @@
+﻿
+<link rel="stylesheet" type="text/css" href="~/Content/Mine/Site.css" />
+
+
+@{
+    ViewBag.Title = "SignUp";
+    Layout = "~/Views/Shared/_Layout_1.cshtml";
+}
+
+<body>
+    <form class="form-login" action="SignUp" method="post">
+        <div class="signupbox">
+            <img id="img-login" src="~/Content/Images/Logo/Logo_2.gif" />
+            <h2>
+                Sign Up
+            </h2>
+            <div>
+                <div class="div-title">
+                    Username
+                </div>
+                <div>
+                    <input class="input1" type="text" placeholder="Username" name="Username" required />
+                </div>
+                <div class="div-title">
+                    Mail
+                </div>
+                <div>
+                    <input class="input1" type="text" placeholder="abcxyz@gmail.com" name="gmail" required />
+                </div>
+                <div class="div-title">
+                    Number Phone
+                </div>
+                <div>
+                    <input class="input1" type="text" placeholder="Number Phone" name="numberPhone" required />
+                </div>
+                <div class="div-title">
+                    Password
+                </div>
+                <div>
+                    <input class="input1" type="password" placeholder="Password" name="Password" required />
+                </div>
+                <div class="div-title">
+                    Password Again
+                </div>
+                <div>
+                    <input class="input1" type="password" placeholder="Password Again" name="PasswordAgain" required />
+                </div>
+                <div id="submitInput">
+                    <input class="input-button btn-success" type="submit" name="Back" value="Back" />
+                    <input class="input-button btn-success" type="submit" name="Submit" value="Submit" />
+
+                </div>
+            </div>
+        </div>
+    </form>
+</body>
+

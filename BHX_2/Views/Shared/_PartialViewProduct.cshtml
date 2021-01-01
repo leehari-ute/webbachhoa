@@ -1,0 +1,92 @@
+﻿@model PagedList.IPagedList<BHX_2.Models.Product>
+@using PagedList.Mvc
+
+<link rel="stylesheet" href="~/Content/Mine/PagedList.css">
+
+@{
+    //ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<table class="table table-bordered">
+    <tr class="head">
+        <th>
+            Name
+        </th>
+        <th>
+            ProductGroup
+        </th>
+        <th>
+            Price
+        </th>
+        <th>
+            Amount
+        </th>
+        <th>
+            Description
+        </th>
+        <th>
+            Image
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr class="sp">
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductGroup)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Amount)
+            </td>
+            <td>
+                @*<div id="a">
+                    @item.Description.Replace("\n", "<br />").Replace("\r\n", "<br />")
+                </div>*@
+                @Html.DisplayFor(modelItem => item.Description)
+               
+            </td>
+            <td>
+                <img src="/@item.UrlImage" width="100" height="100" />
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.ProductID }) |
+                @Html.ActionLink("Details", "Details", new { id = item.ProductID }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.ProductID })
+            </td>
+        </tr>
+    }
+
+</table>
+
+
+<br />
+<div style="margin-left: 40px;">
+    Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber)/@Model.PageCount
+    @Html.PagedListPager(Model, page => Url.Action("GetPaging", new { page }),
+        PagedListRenderOptions.EnableUnobtrusiveAjaxReplacing(new AjaxOptions()
+        { HttpMethod = "GET", UpdateTargetId = "product_area" }))
+</div>
+
+
+
+<div>
+    <h1><a href="~/Products/Create" style="font-size: 20px; text-decoration: none;">Create</a></h1>
+</div>
+
+@*<script>
+    function myFunction() {
+        var x = document.getElementById("d").innerText;
+        document.getElementById("d").innerHTML = x;  
+    };
+    myFunction();
+</script>*@
+
+

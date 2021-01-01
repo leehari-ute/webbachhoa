@@ -1,0 +1,27 @@
+﻿@model IEnumerable<BHX_2.Models.Product>
+@{
+    ViewBag.Title = "Search";
+    Layout = "~/Views/Shared/_Layout_1.cshtml";
+}
+
+<h2>Search</h2>
+@foreach (var item in Model)
+{
+<div class="milk_2">
+    <ul>
+        <li>
+            <img class="imgmilk_2" src="@item.UrlImage" />
+            <h2> @item.ProductName </h2>
+            <h3> @item.Price đồng</h3>
+            <h4 class="giohang">
+                <a>
+                    <i class="fas fa-shopping-cart"> </i>
+                    <a href="@Url.Action("AddtoCart", "Cart",new { productId = item.ProductID})"> Mua </a>
+                </a>
+
+            </h4>
+        </li>
+    </ul>
+</div>
+}
+
