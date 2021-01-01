@@ -123,7 +123,7 @@ namespace BHX_2.Controllers
             };
             db.listCarts.Add(newCart);
             db.SaveChanges();
-            return RedirectToAction("ListBill");
+            return RedirectToAction("GetPaging");
 
             #region ai biet gi
             //string Sms = "<htmt><body><table border='1'><caption> Thông tin đặt hàng</caption><tr><th> STT </th><th> Tên Sản Phẩm </th><th> Số lượng </th> <th> Đơn giá </th> <th> Thành tiền</th></tr>";
@@ -160,13 +160,14 @@ namespace BHX_2.Controllers
             //}
             #endregion
         }
-        public ActionResult ListBill()
+        public ActionResult DetailsBill(int id)
         {
-            string username = Session["Username"].ToString().Trim();              
-            int iduser = db.Users.Where(s => s.Username.Trim() == username).Select(s => s.idUser).FirstOrDefault();
-            var bill = (from p in db.Carts where p.IDuser == iduser orderby p.IDCart descending select p).ToList();
-            var idcart = bill.Select(s => s.IDCart).Distinct().ToList();
-            ViewBag.idCart = idcart;
+            //string username = Session["Username"].ToString().Trim();              
+            //int iduser = db.Users.Where(s => s.Username.Trim() == username).Select(s => s.idUser).FirstOrDefault();
+            var bill = (from p in db.Carts where p.IDCart == id orderby p.ID descending select p).ToList();
+            var stt = db.listCarts.Where(s => s.IDCart == id).Select(s => s.Status).FirstOrDefault();
+            ViewBag.idCart = id;
+            ViewBag.sta = stt;
             return View(bill);    
         }
         public PartialViewResult GetPaging(int? page)
@@ -174,13 +175,13 @@ namespace BHX_2.Controllers
             int pageSize = 10;
             IQueryable<ListCart> prod = (from c in db.listCarts select c)
                     .OrderBy(x => x.IDCart);
-            //if (Session["Lever"].ToString() == "3")
-            //{
-            //    string name = Session["Username"].ToString();
-            //    int iduser = db.Users.Where(s => s.Username == name).Select(s=>s.idUser).FirstOrDefault();
-            //    prod = (from c in db.listCarts where c.IDuser == iduser select c)
-            //    .OrderBy(x => x.IDCart);
-            //}             
+            if (Session["Lever"].ToString() == "3")
+            {
+                string name = Session["Username"].ToString();
+                int iduser = db.Users.Where(s => s.Username == name).Select(s=>s.idUser).FirstOrDefault();
+                prod = (from c in db.listCarts where c.IDuser == iduser select c)
+                .OrderBy(x => x.IDCart);
+            }             
             int pageNumber = (page ?? 1);
             return PartialView("_PartialViewListBill", prod.ToPagedList(pageNumber, pageSize));
         }

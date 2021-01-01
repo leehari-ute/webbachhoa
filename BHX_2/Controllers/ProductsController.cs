@@ -163,6 +163,10 @@ namespace BHX_2.Controllers
             string uname = (string)Session["Username"];
             int id = db.Users.Where(s => s.Username == uname).Select(s=>s.idUser).FirstOrDefault();
             var model = db.listCarts.Select(s=>s).OrderBy(s=>s.IDCart).ToList();
+            if (Session["Lever"].ToString()=="3")
+            {
+                model = model.Where(s => s.IDuser == id).ToList();
+            }
             switch (stat)
             {
                 case "Chuaxacnhan":

@@ -75,7 +75,7 @@
                         <h2> <i class="fas fa-shopping-basket"></i></h2>
                         <p><a href="~/Cart/Index"><b>Giỏ hàng</b></a></p>
                     }
-                    else if (Session["Lever"] == "1")
+                    else if (Session["Lever"].ToString() == "1")
                     {
                         <a class="name" style="font-size: 15px; text-decoration: none; color: black; margin-left: 10px" href="~/Admin/Index"><b>Admin</b></a> }
                     else

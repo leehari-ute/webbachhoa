@@ -2186,7 +2186,6 @@
     <Content Include="Views\Shared\_PartialViewLoadList.cshtml" />
     <Content Include="Views\ListProducts\DetailProduct.cshtml" />
     <Content Include="Views\Cart\Index.cshtml" />
-    <Content Include="Views\Cart\ListBill.cshtml" />
     <Content Include="Views\Cart\ListBillAdmin.cshtml" />
     <Content Include="Views\Shared\_PartialViewListBill.cshtml" />
     <Content Include="Views\Cart\ListCartConfirmed.cshtml" />
@@ -2200,6 +2199,7 @@
     <Content Include="Views\Admin\UserIndex.cshtml" />
     <Content Include="Views\Excel\Index.cshtml" />
     <Content Include="Views\User\Index.cshtml" />
+    <Content Include="Views\Cart\DetailsBill.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Image\" />

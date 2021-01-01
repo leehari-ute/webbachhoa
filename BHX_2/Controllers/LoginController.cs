@@ -20,8 +20,26 @@ namespace BHX_2.Controllers
             string Lever = Fields["Lever"];
             return View();
         }
+        [HttpGet]
         public ActionResult ForgotPassword()
         {
+            return View();
+        }
+        [HttpPost]
+        public ActionResult ForgotPassword(FormCollection fields)
+        {
+            //if (fields["Password"] != fields["PasswordAgain"])
+            //    return View();
+            //using (LTWebEntities _db = new LTWebEntities())
+            //{
+            //    User a = new User();
+            //    a.Username = fields["Username"];
+            //    a.Password = fields["Password"];
+            //    a.Phone = int.Parse(fields["numberPhone"]);
+            //    a.Lever = 3;
+            //    _db.Users.Add(a);
+            //    _db.SaveChanges();
+            //}
             return View();
         }
         [HttpGet]

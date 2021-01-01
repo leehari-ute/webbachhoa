@@ -133,34 +133,42 @@
                                     @Html.DisplayFor(modelItem => item.IDuser)
                                 </td>
                                 <td>
-                                    @if (Session["Lever"] == "1")
+                                    @if (Session["Lever"].ToString() == "1")
                                     {
                                         if (item.Status == "Đã xác nhận")
                                         {
                                             <a href="@Url.Action("Ship", "Cart",  new { id = item.IDCart })">Giao hàng</a>
+                                            <a>|</a>
+                                            <a href="@Url.Action("DetailsBill", "Cart",  new { id = item.IDCart })">Chi tiết</a>
                                         }
                                         else if (item.Status == "Chưa xác nhận")
                                         {
                                             <a href="@Url.Action("Confirm", "Cart",  new { id = item.IDCart })">Xác nhận</a>
+                                            <a>|</a>
+                                            <a href="@Url.Action("DetailsBill", "Cart",  new { id = item.IDCart })">Chi tiết</a>
                                         }
                                         else
                                         {
-
+                                            <a href="@Url.Action("DetailsBill", "Cart",  new { id = item.IDCart })">Chi tiết</a>
                                         }
                                     }
-                                    else if (Session["Lever"] == "3")
+                                    else if (Session["Lever"].ToString() == "3")
                                     {
                                         if (item.Status == "Đang giao hàng")
                                         {
                                             <a href="@Url.Action("Received", "Cart",  new { id = item.IDCart })">Đã nhận hàng</a>
+                                            <a>|</a>
+                                            <a href="@Url.Action("DetailsBill", "Cart",  new { id = item.IDCart })">Chi tiết</a>
                                         }
                                         else if (item.Status == "Chưa xác nhận")
                                         {
                                             <a href="@Url.Action("Cancel", "Cart",  new { id = item.IDCart })">Hủy</a>
+                                            <a>|</a>
+                                            <a href="@Url.Action("DetailsBill", "Cart",  new { id = item.IDCart })">Chi tiết</a>
                                         }
                                         else
                                         {
-
+                                            <a href="@Url.Action("DetailsBill", "Cart",  new { id = item.IDCart })">Chi tiết</a>
                                         }
                                     }
                                     else
@@ -193,9 +201,9 @@
 
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    @if (Session["Lever"] == "1")
+    @if (Session["Lever"].ToString() == "1")
     {
-        <script>
+<script>
         $(function () {
             $(".order-button").click(function () {
                 var stat = $(this).attr("stat");
@@ -210,29 +218,34 @@
                         $(response).each(function (i, e) {
                             var tr = $("<tr/>");
                             var confirm = '@(Url.Action("Confirm", "Cart"))';
-                            var ship = '@(Url.Action("Ship","Cart"))';                      
+                            var ship = '@(Url.Action("Ship","Cart"))';
+                            var detail = '@(Url.Action("Details","Cart"))';
                             $("<td/>").html(e.IDCart).appendTo(tr);
                             $("<td/>").html(e.TotalPrice).appendTo(tr);
                             $("<td/>").html(e.Status).appendTo(tr);
                             $("<td/>").html(e.IDuser).appendTo(tr);
                             if (e.Status == "Đã xác nhận") {
                                 $("<td/>").append("<a href='" + ship + "?id=" + e.IDCart + "'>" + "Giao hàng" + "</a>").appendTo(tr);
+                                $("<td/>").append("<a href='" + detail + "?id=" + e.IDCart + "'>" + "Chi tiết" + "</a>").appendTo(tr);
                             }
                             else if (e.Status == "Chưa xác nhận") {
                                 $("<td/>").append("<a href='" + confirm + "?id=" + e.IDCart + "'>" + "Xác nhận" + "</a>").appendTo(tr);
+                                $("<td/>").append("<a href='" + detail + "?id=" + e.IDCart + "'>" + "Chi tiết" + "</a>").appendTo(tr);
                             }
-                            else { }
+                            else {
+                                $("<td/>").append("<a href='" + detail + "?id=" + e.IDCart + "'>" + "Chi tiết" + "</a>").appendTo(tr);
+                            }
                             tr.appendTo(".table1");
                         });
                     }
                 });
             });
         });
-        </script>
+</script>
     }
-    else if (Session["Lever"] == "3")
+    else if (Session["Lever"].ToString() == "3")
     {
-        <script>
+<script>
         $(function () {
             $(".order-button").click(function () {
                 var stat = $(this).attr("stat");
@@ -248,24 +261,27 @@
                             var tr = $("<tr/>");
                             var cancel = '@(Url.Action("Cancel","Cart"))';
                             var receive = '@(Url.Action("Received","Cart"))';
+                            var detail = '@(Url.Action("Details","Cart"))';
                             $("<td/>").html(e.IDCart).appendTo(tr);
                             $("<td/>").html(e.TotalPrice).appendTo(tr);
                             $("<td/>").html(e.Status).appendTo(tr);
                             $("<td/>").html(e.IDuser).appendTo(tr);
                             if (e.Status == "Chưa xác nhận") {
                                 $("<td/>").append("<a href='" + cancel + "?id=" + e.IDCart + "'>" + "Hủy" + "</a>").appendTo(tr);
+                                $("<td/>").append("<a href='" + detail + "?id=" + e.IDCart + "'>" + "Chi tiết" + "</a>").appendTo(tr);
                             }
                             else if (e.Status == "Đang giao hàng") {
                                 $("<td/>").append("<a href='" + receive + "?id=" + e.IDCart + "'>" + "Đã nhận hàng" + "</a>").appendTo(tr);
+                                $("<td/>").append("<a href='" + detail + "?id=" + e.IDCart + "'>" + "Chi tiết" + "</a>").appendTo(tr);
                             }
-                            else {}
+                            else { $("<td/>").append("<a href='" + detail + "?id=" + e.IDCart + "'>" + "Chi tiết" + "</a>").appendTo(tr);}
                             tr.appendTo(".table1");
                         });
                     }
                 });
             });
         });
-        </script>
+</script>
     }
     else
     {
