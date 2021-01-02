@@ -23,7 +23,9 @@ namespace BHX_2.Models
         public int Phone { get; set; }
 
         public int Lever { get; set; }
-
+        public string HoTen { get; set; }
+        public DateTime ngaySinh { get; set; }
+        public string DiaChi { get; set; }
     }
 
 }

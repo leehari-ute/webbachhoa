@@ -1,0 +1,17 @@
+﻿@model BHX_2.Models.User
+@{
+    ViewBag.Title = "ConfirmCode";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>ConfirmCode</h2>
+<form action="ConfirmCode" method="get">
+    <div class="div-title">
+        Mã xác nhận:
+    </div>
+    <div>
+        <input class="input1" type="text" name="code" placeholder="000000" required />
+    </div>
+    <input class="input-button" type="submit" name="ConfirmCode" value="Xác nhận" />
+</form>
+

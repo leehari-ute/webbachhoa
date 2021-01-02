@@ -4,24 +4,30 @@
     Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
 }
 
-<div>
-    <div>
+<form class="form-login" action="ForgotPassword" method="get">
+    <div style="text-align: center; margin-left: 25px">
         Tên tài khoản: @Model.Username
     </div>
-    <div>
-        Mật khẩu: @Model.Password
+    <div style="text-align: center; margin-left: 25px">
+        Tên: @Model.HoTen
     </div>
-    <div>
+    <div style="text-align: center; margin-left: 25px">
+        Ngày sinh: @Model.ngaySinh.ToString("dd/MM/yyyy")
+    </div>
+    <div style="text-align: center; margin-left: 25px">
+        Địa chỉ: @Model.DiaChi
+    </div>
+    <div style="text-align: center; margin-left: 25px">
         Email: @Model.Email
     </div>
-    <div>
+    <div style="text-align: center; margin-left: 25px">
         Số điện thoại: @Model.Phone
     </div>
     <div style="text-align: center; margin-left: 25px">
-        @Html.ActionLink("Đổi mật khẩu", "ChangePass", "Login")
+        @Html.ActionLink("Đổi mật khẩu", "ChangePass", "User")
     </div>
     <div style="text-align: center; margin-left: 25px">
-        @Html.ActionLink("Cập nhật thông tin", "UpdateInfo", "Login")
+        @Html.ActionLink("Cập nhật thông tin", "UpdateInfo", "User")
     </div>
-</div>
+</form>
 

@@ -639,3 +639,4 @@ D:\Refferences\This term\Web Programing\BHX_2\BHX_2\obj\Debug\BHX_2.csproj.CopyC
 D:\Refferences\This term\Web Programing\BHX_2\BHX_2\obj\Debug\BHX_2.dll
 D:\Refferences\This term\Web Programing\BHX_2\BHX_2\obj\Debug\BHX_2.pdb
 D:\Refferences\This term\Web Programing\BHX_2\BHX_2\obj\Debug\BHX_2.csprojAssemblyReference.cache
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\obj\Debug\BHX_2.Migrations.User.resources

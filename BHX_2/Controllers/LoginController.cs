@@ -32,7 +32,7 @@ namespace BHX_2.Controllers
                 {
                     string username = _db.FirstOrDefault().Username;
                     string pass = _db.FirstOrDefault().Password;
-                    sms += "Chào bạn: \n Thông tin mật khẩu của bạn là:" + " " + username;
+                    sms += "Chào bạn. Thông tin mật khẩu của bạn là:" + " " + username;
                     MailMessage mail = new MailMessage("leehari1312@gmail.com", email, sms, pass);
                     SmtpClient client = new SmtpClient("smtp.gmail.com", 587);
                     client.EnableSsl = true;
@@ -69,6 +69,9 @@ namespace BHX_2.Controllers
                 a.Password = fields["Password"];
                 a.Phone = int.Parse(fields["numberPhone"]);
                 a.Lever = 3;
+                a.HoTen = "";
+                a.DiaChi = "";
+                a.ngaySinh = DateTime.Now;
                 _db.Users.Add(a);
                 _db.SaveChanges();
             }
