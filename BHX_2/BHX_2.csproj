@@ -200,8 +200,13 @@
     <Compile Include="Migrations\202101020753157_User.designer.cs">
       <DependentUpon>202101020753157_User.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202101021411100_CodeAndInfo.cs" />
+    <Compile Include="Migrations\202101021411100_CodeAndInfo.designer.cs">
+      <DependentUpon>202101021411100_CodeAndInfo.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Cart.cs" />
+    <Compile Include="Models\CodeAndInfo.cs" />
     <Compile Include="Models\ListCart.cs" />
     <Compile Include="Models\Product.cs" />
     <Compile Include="Models\Role.cs" />
@@ -2074,6 +2079,7 @@
     <Content Include="Content\Mine\khachhang.css" />
     <Content Include="Content\Mine\Milk.css" />
     <Content Include="Content\Mine\PagedList.css" />
+    <Content Include="Content\Mine\personal.css" />
     <Content Include="Content\Mine\Product_Milk.css" />
     <Content Include="Content\Mine\Site.css" />
     <Content Include="Content\Mine\StyleSheet1.css" />
@@ -2208,6 +2214,7 @@
     <Content Include="Views\User\Personal.cshtml" />
     <Content Include="Views\User\ChangePass.cshtml" />
     <Content Include="Views\User\ConfirmCode.cshtml" />
+    <Content Include="Views\User\ChangeInfo.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Image\" />
@@ -2245,6 +2252,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202101020753157_User.resx">
       <DependentUpon>202101020753157_User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202101021411100_CodeAndInfo.resx">
+      <DependentUpon>202101021411100_CodeAndInfo.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

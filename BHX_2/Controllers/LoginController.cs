@@ -92,22 +92,31 @@ namespace BHX_2.Controllers
             }
 
             if (a == null)  return View();
-
-            if(a.Password == Password && a.Lever == 1)
+           
+            if (a.Password == Password && a.Lever == 1)
             {
                 Session["Username"] = Username;
                 Session["Lever"] = "1";
-                return RedirectToAction("Index", "Admin");   
+                Session["Password"] = Password;
+                return RedirectToAction("Index", "Admin");
             }
-            Session["Username"] = Username;
-
-            if (Session["giohang"] != null)
+            else if (a.Password == Password && a.Lever == 3)
             {
-                return RedirectToAction("Index","Cart");
+                Session["Username"] = Username;
+                Session["Lever"] = "3";
+                Session["Password"] = Password;
+                if (Session["giohang"] != null)
+                {
+                    return RedirectToAction("Index", "Cart");
+                }
+                return RedirectToAction("HomeBHX", "HomeBHX");
             }
-            Session["Username"] = Username;
-            Session["Lever"] = "3";
-            return RedirectToAction("HomeBHX", "HomeBHX");
+            else
+            {
+                return View("SignIn");
+            }
+            
+            
 
         }
         // : Get Log out

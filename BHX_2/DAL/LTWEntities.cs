@@ -18,6 +18,7 @@ namespace BHX_2.Models
         public DbSet<Role> Roles { get; set; }
         public DbSet<Cart> Carts { get; set; }
         public DbSet<ListCart> listCarts { get; set; }
+        public DbSet<CodeAndInfo> codeAndInfos { get; set; }
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder.Entity<User>().ToTable("Users");
