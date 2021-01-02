@@ -40,14 +40,13 @@
 
             </div>
             <div class="header-3">
-                <div class="search">
-                    <div class="search-1">
-                        <span class="icon"><i class="fas fa-search"></i></span>
-                        <input type="search" id="search" placeholder="Search..." />
-                        <button type="button" title="Search" value="Search" onclick="location.href='@Url.Action("Search", "HomeBHX",new { result = ViewBag.re})'" style="height:18px;width:60px">Search</button>
-
-                    </div>
-                </div>
+                @using (Html.BeginForm())
+                {
+                    <p>
+                        <div style="font-weight:bold">Tìm kiếm: @Html.TextBox("searchName")</div>
+                        <input type="submit" value="Search" />
+                    </p>
+                }
 
                 <div class="login">
                     @{

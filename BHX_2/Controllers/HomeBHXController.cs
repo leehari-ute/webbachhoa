@@ -22,7 +22,7 @@ namespace BHX_2.Controllers
             return View();
         }
 
-        public ActionResult HomeBHX()
+        public ActionResult HomeBHX(string searchName ="")
         {
             string chuoi = "";
 
@@ -31,7 +31,15 @@ namespace BHX_2.Controllers
             {
                 chuoi += "<div class=\"rau_1\">";
                 chuoi += "<h5> <i class=\"fas fa-hand-point-right\"> </i> </h5>";
-                var product = (from p in db.Products where p.ProductGroup == G orderby p.ProductID descending select p).Take(5).ToList();                                             
+                var product = (from p in db.Products where p.ProductGroup == G orderby p.ProductID descending select p).ToList();
+                if (!String.IsNullOrEmpty(searchName))
+                {
+                    product = product.Where(s => s.ProductName.Contains(searchName)).Take(5).ToList();
+                }
+                else
+                {
+                    product = product.Take(5).ToList(); 
+                }
                 chuoi += "<h1>" + G + "</h1>";
                 chuoi += "</div>";
                 for (int i = 0; i < product.Count; i++)
