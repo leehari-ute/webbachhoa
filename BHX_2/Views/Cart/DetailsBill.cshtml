@@ -1,12 +1,14 @@
 ﻿@model IEnumerable<BHX_2.Models.Cart>
-@{
-    ViewBag.Title = "DetailsBill";
-    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
-}
+@{ ViewBag.Title = "DetailsBill";
+                Layout = "~/Views/Shared/_LayoutAdmin.cshtml"; }
 
-<h2>DetailsBill</h2>
-<h1 class="donhang">Đơn hàng @ViewBag.idCart </h1>
-<h2 class="sta"> Trạng thái: @ViewBag.sta </h2>
+<h2 class="chitiet">Chi tiết đơn hàng</h2>
+<br />
+<ul class="dong2">
+    <li class="donhang">Đơn hàng @ViewBag.idCart </li>
+    <li class="sta">@ViewBag.sta </li>
+</ul>
+
 <div class="row">
     <div class="col-sm-12">
         <div class="table-responsive">
@@ -20,20 +22,19 @@
                 </tr>
                 @foreach (var item in Model)
                 {
-                    <tr>
-                        <td class="text-center">@item.ID</td>
-                        <td><a class="name_product" target="_blank" href="@Url.Action("Details","SANPHAMs",new { ProductID=item.ID})">@item.ProductName</a></td>
-                        <td> @item.Amount.ToString()</td>
-                        <td>@item.Price.ToString() VNĐ</td>
-                        <td>@item.TotalPrice.ToString() VNĐ</td>
-                    </tr>
-                }
+    <tr>
+        <td class="text-center">@item.ID</td>
+        <td><a class="name_product" target="_blank" href="@Url.Action("Details","SANPHAMs",new { ProductID=item.ID})">@item.ProductName</a></td>
+        <td> @item.Amount.ToString()</td>
+        <td>@item.Price.ToString() VNĐ</td>
+        <td>@item.TotalPrice.ToString() VNĐ</td>
+    </tr>}
                 <tr>
                     <td></td>
                     <td class="text-left">Tổng số lượng</td>
                     <td class="text-center"> @Model.Sum(m => m.Amount)</td>
                     <td class="text-left">Tổng thành tiền</td>
-                    <td class="text-center">@Model.Sum(m => m.TotalPrice) VNĐ</td>
+                    <td class="text-center-total">@Model.Sum(m => m.TotalPrice) VNĐ</td>
                     <td></td>
                 </tr>
             </table>
@@ -43,3 +44,4 @@
 
 
 
+<link rel="stylesheet" href="~/Content/Mine/detailsbill.css">

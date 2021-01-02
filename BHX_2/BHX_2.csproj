@@ -2065,6 +2065,7 @@
     <Content Include="Content\Mine\admin.css" />
     <Content Include="Content\Mine\br.js" />
     <Content Include="Content\Mine\cart.css" />
+    <Content Include="Content\Mine\detailsbill.css" />
     <Content Include="Content\Mine\hoidap.css" />
     <Content Include="Content\Mine\khachhang.css" />
     <Content Include="Content\Mine\Milk.css" />
