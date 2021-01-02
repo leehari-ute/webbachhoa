@@ -127,16 +127,18 @@
                             <ul>
                                 @if (Session["Lever"] == "1")
                                 {
+                                    <li><button onclick="location.href='@Url.Action("Personal","User")'">Tài khoản cá nhân</button></li>
                                     <li><button onclick="location.href='@Url.Action("UserIndex","Admin")'">User</button></li>
                                     <li><button onclick="location.href='@Url.Action("GetPaging","Products", new { page =1})'">Sản phẩm</button></li>
-                                    <li><button onclick="location.href='@Url.Action("GetPaging","Cart")'">Đơn bán</button></li>
+                                    <li><button onclick="location.href='@Url.Action("GetPaging","Cart", new { page = 1 })'">Đơn bán</button></li>
                                     <li><button onclick="location.href='@Url.Action()'">Doanh Thu</button></li>
                                     <li><button onclick="location.href='@Url.Action()'">Hóa đơn</button></li>
                                 }
                                 else if (Session["Lever"] == "3")
                                 {
                                     <li><button onclick="location.href='@Url.Action()'">Bakayaruo</button></li>
-                                    <li><button onclick="location.href='@Url.Action("GetPaging","Cart")'">Đơn mua</button></li>
+                                    <li><button onclick="location.href='@Url.Action("Personal","User")'">Tài khoản cá nhân</button></li>
+                                    <li><button onclick="location.href='@Url.Action("GetPaging","Cart",new { page =1})'">Đơn mua</button></li>
                                 }
                                 else { }
 

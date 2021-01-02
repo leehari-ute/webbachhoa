@@ -6,6 +6,8 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using PagedList;
+using System.Net.Mail;
+using System.Net;
 
 namespace BHX_2.Controllers
 {
@@ -20,26 +22,32 @@ namespace BHX_2.Controllers
             string Lever = Fields["Lever"];
             return View();
         }
-        [HttpGet]
-        public ActionResult ForgotPassword()
+        public ActionResult ForgotPassword(string Uname, string email)
         {
-            return View();
-        }
-        [HttpPost]
-        public ActionResult ForgotPassword(FormCollection fields)
-        {
-            //if (fields["Password"] != fields["PasswordAgain"])
-            //    return View();
-            //using (LTWebEntities _db = new LTWebEntities())
-            //{
-            //    User a = new User();
-            //    a.Username = fields["Username"];
-            //    a.Password = fields["Password"];
-            //    a.Phone = int.Parse(fields["numberPhone"]);
-            //    a.Lever = 3;
-            //    _db.Users.Add(a);
-            //    _db.SaveChanges();
-            //}
+            if (ModelState.IsValid)
+            {
+                var _db = db.Users.Where(s => s.Username.ToString().Trim().Equals(Uname) && s.Email.ToString().Trim().Equals(email)).ToList();
+                string sms = "";
+                if (_db.Count > 0)
+                {
+                    string username = _db.FirstOrDefault().Username;
+                    string pass = _db.FirstOrDefault().Password;
+                    sms += "Chào bạn: \n Thông tin mật khẩu của bạn là:" + " " + username;
+                    MailMessage mail = new MailMessage("leehari1312@gmail.com", email, sms, pass);
+                    SmtpClient client = new SmtpClient("smtp.gmail.com", 587);
+                    client.EnableSsl = true;
+                    client.Credentials = new NetworkCredential("leehari1312@gmail.com", "13122802");
+                    mail.IsBodyHtml = true;
+                    client.Send(mail);
+                    ViewBag.suc = "Get Success! Check your mail";
+                }
+                else if (_db.Count == 0)
+                {
+                    // ModelState.AddModelError("Invalid", "Username or password not exits");
+                    return View("ForgotPassWord");
+                }
+            }
+            ModelState.Clear();
             return View();
         }
         [HttpGet]

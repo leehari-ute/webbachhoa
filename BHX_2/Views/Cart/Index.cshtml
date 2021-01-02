@@ -57,19 +57,16 @@ else
                             {
                                 <form action="@Url.Action("Order","Cart")" method="get" onclick="return confirm('Bạn cần đăng nhập để đặt hàng')">
                                     @*Đặt hàng qua Email : <input type="email" name="Email" />*@
-                                    - Điện thoại: <input type="text" name="Phone" />
                                     <input type="submit" value="Đặt hàng" class="btn btn-success btn-sm" />
-                                    <a class="btn btn-success btn-sm" href="@Url.Action("Index","Home")"> Quay Lại Trang Chủ</a>
+                                    <a class="btn btn-success btn-sm" href="@Url.Action("HomeBHX","HomeBHX")"> Quay Lại Trang Chủ</a>
                                 </form>
                             }
                             else
                             {
                                 <form action="@Url.Action("Order","Cart")" method="get" >
                                     @*Đặt hàng qua Email : <input type="email" name="Email" />*@
-                                    - Điện thoại: <input type="text" name="Phone" />
                                     <input type="submit" value="Đặt hàng" class="btn btn-success btn-sm" />
-                                    <a class="btn btn-success btn-sm" href="@Url.Action("Index","Home")"> Quay Lại Trang Chủ</a>
-
+                                    <a class="btn btn-success btn-sm" href="@Url.Action("HomeBHX","HomeBHX")"> Quay Lại Trang Chủ</a>
                                 </form>
                             }
                         </td>

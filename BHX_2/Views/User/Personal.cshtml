@@ -1,0 +1,27 @@
+﻿@model BHX_2.Models.User
+@{
+    ViewBag.Title = "Personal";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div>
+    <div>
+        Tên tài khoản: @Model.Username
+    </div>
+    <div>
+        Mật khẩu: @Model.Password
+    </div>
+    <div>
+        Email: @Model.Email
+    </div>
+    <div>
+        Số điện thoại: @Model.Phone
+    </div>
+    <div style="text-align: center; margin-left: 25px">
+        @Html.ActionLink("Đổi mật khẩu", "ChangePass", "Login")
+    </div>
+    <div style="text-align: center; margin-left: 25px">
+        @Html.ActionLink("Cập nhật thông tin", "UpdateInfo", "Login")
+    </div>
+</div>
+

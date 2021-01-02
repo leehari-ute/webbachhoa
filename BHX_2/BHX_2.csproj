@@ -2201,6 +2201,7 @@
     <Content Include="Views\Excel\Index.cshtml" />
     <Content Include="Views\User\Index.cshtml" />
     <Content Include="Views\Cart\DetailsBill.cshtml" />
+    <Content Include="Views\User\Personal.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Image\" />
