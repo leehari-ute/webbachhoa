@@ -749,3 +749,4 @@ D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\w
 D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\obj\Debug\BHX_2.csproj.CopyComplete
 D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\obj\Debug\BHX_2.dll
 D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\obj\Debug\BHX_2.pdb
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\obj\Debug\BHX_2.Migrations.Cart4.resources

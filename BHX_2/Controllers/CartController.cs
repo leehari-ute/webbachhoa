@@ -119,7 +119,8 @@ namespace BHX_2.Controllers
                 IDCart = idcart,
                 TotalPrice = gia,
                 IDuser = iduser,
-                Status = stt.Trim(),                         
+                Status = stt.Trim(), 
+                ngayBan = DateTime.Now,
             };
             db.listCarts.Add(newCart);
             db.SaveChanges();
@@ -243,6 +244,7 @@ namespace BHX_2.Controllers
             var ship = db.listCarts.First(s => s.IDCart == id);
             ship.IDuser = db.listCarts.Where(s => s.IDCart == id).Select(s => s.IDuser).FirstOrDefault();
             ship.Status = "Đã nhận hàng";
+            ship.ngayBan = DateTime.Now;
             ship.TotalPrice = db.listCarts.Where(s => s.IDCart == id).Select(s => s.TotalPrice).FirstOrDefault();
             db.SaveChanges();
 
@@ -253,6 +255,44 @@ namespace BHX_2.Controllers
                 db.SaveChanges();
             }
             return RedirectToAction("GetPaging");
+        }
+        public ActionResult Chart()
+        {
+            return View();
+        }
+        public ActionResult ChartData(string tg)
+        {
+            if (Session["Lever"] == null)
+                return null;
+            int lvl = int.Parse(Session["Lever"].ToString());
+            if (lvl == 3)
+                return null;
+            if (tg == "nam")
+            {
+                int n = DateTime.Now.AddYears(-1).Year;
+                List<ListCart> all = db.listCarts.Where(x => x.ngayBan.Year == n).ToList();
+                double[] data = new double[12];
+                foreach (ListCart o in all)
+                {
+                    int m = o.ngayBan.Month - 1;
+                    data[m] += o.TotalPrice;
+                }
+                return Json(data, JsonRequestBehavior.AllowGet);
+            }
+            else if (tg == "thang")
+            {
+                int n = DateTime.Now.AddMonths(-1).Month;
+                List<ListCart> all = db.listCarts.Where(x => x.ngayBan.Month == n).ToList();
+                int d = DateTime.DaysInMonth(DateTime.Now.AddMonths(-1).Year, DateTime.Now.AddMonths(-1).Month);
+                double[] data = new double[d];
+                foreach (ListCart o in all)
+                {
+                    int m = o.ngayBan.Day - 1;
+                    data[m] += o.TotalPrice;
+                }
+                return Json(data, JsonRequestBehavior.AllowGet);
+            }
+            return null;
         }
     }
 }

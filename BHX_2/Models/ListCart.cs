@@ -14,5 +14,6 @@ namespace BHX_2.Models
         public double TotalPrice { get; set; }
         public int IDuser { get; set; }
         public string Status { get; set; }
+        public DateTime ngayBan { get; set; }
     }
 }

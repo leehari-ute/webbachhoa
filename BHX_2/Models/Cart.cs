@@ -15,6 +15,5 @@ namespace BHX_2.Models
         public int Amount { get; set; }
         public string Status { get; set; }
         public double TotalPrice { get { return Amount * Price; } }
-
     }
 }

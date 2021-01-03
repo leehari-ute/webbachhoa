@@ -131,7 +131,7 @@
                                     <li><button onclick="location.href='@Url.Action("UserIndex","Admin")'">User</button></li>
                                     <li><button onclick="location.href='@Url.Action("GetPaging","Products", new { page =1})'">Sản phẩm</button></li>
                                     <li><button onclick="location.href='@Url.Action("GetPaging","Cart", new { page = 1 })'">Đơn bán</button></li>
-                                    <li><button onclick="location.href='@Url.Action()'">Doanh Thu</button></li>
+                                    <li><button onclick="location.href='@Url.Action("Chart","Cart")'">Doanh Thu</button></li>
                                     <li><button onclick="location.href='@Url.Action()'">Hóa đơn</button></li>
                                 }
                                 else if (Session["Lever"] == "3")
