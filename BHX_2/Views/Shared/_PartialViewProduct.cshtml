@@ -2,13 +2,14 @@
 @using PagedList.Mvc
 
 <link rel="stylesheet" href="~/Content/Mine/PagedList.css">
+<link href="~/Content/Mine/user.css" rel="stylesheet" />
 
 @{
     //ViewBag.Title = "Create";
     Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
 }
 
-<table class="table table-bordered">
+<table class="table-bordered">
     <tr class="head">
         <th>
             Name
@@ -68,17 +69,16 @@
 
 
 <br />
-<div style="margin-left: 40px;">
-    Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber)/@Model.PageCount
-    @Html.PagedListPager(Model, page => Url.Action("GetPaging", new { page }),
-        PagedListRenderOptions.EnableUnobtrusiveAjaxReplacing(new AjaxOptions()
-        { HttpMethod = "GET", UpdateTargetId = "product_area" }))
-</div>
-
-
-
-<div>
-    <h1><a href="~/Products/Create" style="font-size: 20px; text-decoration: none;">Create</a></h1>
+<div style="display: flex">
+    <div style="margin-left: 40px;">
+        Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber)/@Model.PageCount
+        @Html.PagedListPager(Model, page => Url.Action("GetPaging", new { page }),
+                          PagedListRenderOptions.EnableUnobtrusiveAjaxReplacing(new AjaxOptions()
+                          { HttpMethod = "GET", UpdateTargetId = "product_area" }))
+    </div>
+    <div style="margin-top: 10px;">
+        <h1><a href="~/Products/Create" style="font-size: 20px; text-decoration: none; margin-left: 20px;">Thêm sản phẩm</a></h1>
+    </div>
 </div>
 
 @*<script>

@@ -4,7 +4,7 @@
     Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
 }
 
-<h1 style="font-size: 30px; text-align: center">Thông tin tài khoản</h1>
+<h1 style="font-size: 30px; margin-left: 46%">Thông tin tài khoản</h1>
 <br />
 <form class="form-login" action="ForgotPassword" method="get">
     <div class="inf" >
@@ -49,11 +49,11 @@
         </ul>
         
     </div>
-    <div style="text-align: center; margin-left: 25px">
-        @Html.ActionLink("Đổi mật khẩu", "ChangePass", "User")
+    <div style="text-align: center;margin-left: 25px;background: #088608;height: 39px;line-height: 39px; width: 69%;margin-left: 21%;margin-top: 31px;text-decoration: :none;border: 2px solid black;">
+        <a style="text-decoration: none;color: white;font-size: 25px;" href="/User/ChangePass">Đổi mật khẩu</a>
     </div>
-    <div style="text-align: center; margin-left: 25px">
-        @Html.ActionLink("Cập nhật thông tin", "ChangeInfo", "User")
+    <div style="text-align: center;margin-left: 25px;background: #088608;height: 39px;line-height: 39px; width: 69%;margin-left: 21%;margin-top: 31px;text-decoration: :none;border: 2px solid black;">
+        <a style="text-decoration: none;color: white;font-size: 25px;" href="/User/ChangeInfo">Cập nhật thông tin</a>
     </div>
 </form>
 

@@ -1,8 +1,9 @@
 ﻿
 @{
     ViewBag.Title = "ChangeInfo";
-    Layout = "~/Views/Shared/_Layout_1.cshtml";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
 }
+<link href="~/Content/Mine/changeInf.css" rel="stylesheet" />
 
 <form class="form-login" action="ChangeInfo" method="get">
     <div class="loginbox">
@@ -11,41 +12,53 @@
         </h2>
         <div>
             <div class="div-title">
-                Tên:
+                <ul>
+                    <li>Tên:</li>
+                    <li><input class="input1_1" type="text" name="name" placeholder="Nguyễn Văn B" /></li>
+                </ul>
+                
             </div>
-            <div>
-                <input class="input1" type="text" name="name" placeholder="Nguyễn Văn B"/>
-            </div>
+
             <div class="div-title">
-                Ngày sinh:
+                <ul>
+                    <li>Ngày sinh:</li>
+                    <li><input class="input1_2" type="date" name="birthday" placeholder="28/02/2000" /></li>
+                </ul>
+                
             </div>
-            <div>
-                <input class="input1" type="date" name="birthday" placeholder="28/02/2000" />
-            </div>
+           
             <div class="div-title">
-                Số điện thoại:
+                <ul>
+                    <li>Số điện thoại:</li>
+                    <li><input class="input1_3" type="tel" name="phone" placeholder="0909090909" /></li>
+                </ul>
+                
             </div>
-            <div>
-                <input class="input1" type="tel" name="phone" placeholder="0909090909" />
-            </div>
+            
             <div class="div-title">
-                Email:
+                <ul>
+                    <li>Email:</li>
+                    <li><input class="input1_4" type="email" name="email" placeholder="pinkystore@gmail.com" /></li>
+                </ul>
+                
             </div>
-            <div>
-                <input class="input1" type="email" name="email" placeholder="pinkystore@gmail.com" />
-            </div>
+
             <div class="div-title">
-                Địa chỉ:
+                <ul>
+                    <li>Địa chỉ:</li>
+                    <li><input class="input1_5" type="text" name="address" placeholder="Phường Linh Trung Quận Thủ Đức TPHCM" /></li>
+                </ul>
+                
             </div>
-            <div>
-                <input class="input1" type="text" name="address" placeholder="Phường Linh Trung Quận Thủ Đức TPHCM" />
-            </div>
+
             <div class="div-title">
-                Xác nhận mật khẩu:
+                <ul>
+                    <li>Xác nhận mật khẩu:</li>
+                    <li><input class="input1_6" type="password" name="pass" placeholder="Xác nhận mật khẩu" required /></li>
+                </ul>
+                
             </div>
-            <div>
-                <input class="input1" type="password" name="pass" placeholder="Xác nhận mật khẩu" required />
-            </div>
+           
             <input class="input-button" type="submit" name="ChangeInfo" value="Cập nhật" />
         </div>
     </div>
