@@ -2085,6 +2085,7 @@
     <Content Include="Content\Mine\br.js" />
     <Content Include="Content\Mine\cart.css" />
     <Content Include="Content\Mine\changeInf.css" />
+    <Content Include="Content\Mine\confirmcode.css" />
     <Content Include="Content\Mine\detailsbill.css" />
     <Content Include="Content\Mine\hoidap.css" />
     <Content Include="Content\Mine\khachhang.css" />

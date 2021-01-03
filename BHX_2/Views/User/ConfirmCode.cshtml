@@ -3,14 +3,14 @@
     ViewBag.Title = "ConfirmCode";
     Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
 }
+<link href="~/Content/Mine/confirmcode.css" rel="stylesheet" />
 
-<h2>ConfirmCode</h2>
-<form action="ConfirmCode" method="get">
+<form class="form-login" action="ConfirmCode" method="get">
     <div class="div-title">
-        Mã xác nhận:
-    </div>
-    <div>
-        <input class="input1" type="number" name="code" placeholder="000000" required />
+        <ul>
+            <li> Mã xác nhận: <input class="input1" type="number" name="code" placeholder="000000" required /></li>
+                
+        </ul>    
     </div>
     <input class="input-button" type="submit" name="ConfirmCode" value="Xác nhận" />
 </form>

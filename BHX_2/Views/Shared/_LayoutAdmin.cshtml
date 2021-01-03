@@ -37,52 +37,40 @@
 
             </div>
             <div class="header-3">
-                <div class="search">
-                    <div class="search-1">
-                        <span class="icon"><i class="fas fa-search"></i></span>
-                        <input type="search" id="search" placeholder="Search..." />
-                        <button type="button" title="Search" value="Search" onclick="location.href='@Url.Action("Search", "HomeBHX",new { result = ViewBag.re})'" style="height:18px;width:60px">Search</button>
-
-                    </div>
-                </div>
+                @using (Html.BeginForm("Search",
+"HomeBHX", FormMethod.Get, new { enctype = "multipart/form-data" }))
+                {
+            <p>
+                <div style="font-weight:bold">Tìm kiếm: @Html.TextBox("searchName")</div>
+                <input type="submit" value="Search" />
+            </p>}
 
                 <div class="login">
-                    @{
-                        if (Session["Username"] == null)
-                        {
-                            <ul>
-                                <li><a href="~/Login/SignIn"><b>Sign in</b></a></li>
-                                <li><a href="~/Login/SignUp"><b>Sign up</b></a></li>
-                            </ul>
-                        }
-                        else
-                        { <ul>
-                                <li><a href="~/Login/LogOut"><b>Log out</b></a></li>
-                                <li><a class="name" style="font-size: 15px; text-decoration: none; color: black; margin-left: -2px" href="#"><b>Xin chào @Session["Username"]</b></a></li>
-                            </ul>
-
-                        }
-                    }
+                    @{ if (Session["Username"] == null)
+                                    {
+                        <ul>
+                            <li><a href="~/Login/SignIn"><b>Sign in</b></a></li>
+                            <li><a href="~/Login/SignUp"><b>Sign up</b></a></li>
+                        </ul> }
+                                    else
+                                    { <ul>
+                                            <li><a href="~/Login/LogOut"><b>Log out</b></a></li>
+                                            <li><a class="name" style="font-size: 15px; text-decoration: none; color: black; margin-left: -2px" href="#"><b>Xin chào @Session["Username"]</b></a></li>
+                                        </ul> } }
                 </div>
 
-                @{
-
-                    if (Session["Username"] == null)
-                    {
-                        <h2> <i class="fas fa-shopping-basket"></i></h2>
-                        <p><a href="~/Cart/Index"><b>Giỏ hàng</b></a></p>
-                    }
-                    else if (Session["Lever"] == "1")
-                    {
-                        @*<a style="font-size: 15px; text-decoration: none; color: black; padding: 5px; border-right: 1px solid black;" href="~/Cart/GetPaging"><b>Đơn mua</b></a>*@
-                        <a class="name" style="font-size: 15px; text-decoration: none; color: black; margin-left: 10px" href="~/Admin/Index"><b>Admin</b></a> }
-                    else
-                    {
-                        <a style="font-size: 15px; text-decoration: none; color: black; padding: 5px; border-right: 1px solid black;" href="~/User/Index"><b>Cá nhân</b></a>
-                        <h2> <i class="fas fa-shopping-basket"></i></h2>
-                        <p><a href="~/Cart/Index"><b>Giỏ hàng</b></a></p>
-                    }
-                }
+                @{ if (Session["Username"] == null)
+                                {
+                    <h2> <i class="fas fa-shopping-basket"></i></h2>
+                                    <p><a href="~/Cart/Index"><b>Giỏ hàng</b></a></p> }
+                                                else if (Session["Lever"] == "1")
+                                                { @*<a style="font-size: 15px; text-decoration: none; color: black; padding: 5px; border-right: 1px solid black;" href="~/Cart/GetPaging"><b>Đơn mua</b></a>*@
+                                                                <a class="name" style="font-size: 15px; text-decoration: none; color: black; margin-left: 10px" href="~/Admin/Index"><b>Admin</b></a> }
+                                                            else
+                                                            {
+                                                <a style="font-size: 15px; text-decoration: none; color: black; padding: 5px; border-right: 1px solid black;" href="~/User/Index"><b>Cá nhân</b></a>
+                                                                <h2> <i class="fas fa-shopping-basket"></i></h2>
+                                                                                <p><a href="~/Cart/Index"><b>Giỏ hàng</b></a></p> } }
 
             </div>
         </div>
