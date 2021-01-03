@@ -20,13 +20,5 @@ namespace BHX_2.Controllers
             List<User> user = db.Users.Where(s => s.Lever == 3).ToList();           
             return View(user);
         }
-        public ActionResult Details()
-        {
-            return View();
-        }
-        public ActionResult Block()
-        {
-            return View("Index");
-        }
     }
 }

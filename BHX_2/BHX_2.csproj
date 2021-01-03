@@ -2085,6 +2085,7 @@
     <Content Include="Content\Mine\br.js" />
     <Content Include="Content\Mine\cart.css" />
     <Content Include="Content\Mine\changeInf.css" />
+    <Content Include="Content\Mine\chart.css" />
     <Content Include="Content\Mine\confirmcode.css" />
     <Content Include="Content\Mine\detailsbill.css" />
     <Content Include="Content\Mine\hoidap.css" />
@@ -2212,7 +2213,6 @@
     <Content Include="Views\Cart\Index.cshtml" />
     <Content Include="Views\Cart\ListBillAdmin.cshtml" />
     <Content Include="Views\Shared\_PartialViewListBill.cshtml" />
-    <Content Include="Views\Cart\ListCartConfirmed.cshtml" />
     <Content Include="Views\HomeBHX\Search.cshtml" />
     <Content Include="Views\Admin\Index.cshtml" />
     <Content Include="Views\Shared\_LayoutAdmin.cshtml" />
@@ -2229,6 +2229,8 @@
     <Content Include="Views\User\ConfirmCode.cshtml" />
     <Content Include="Views\User\ChangeInfo.cshtml" />
     <Content Include="Views\Cart\Chart.cshtml" />
+    <Content Include="Views\User\Create.cshtml" />
+    <Content Include="Views\User\Delete.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Image\" />

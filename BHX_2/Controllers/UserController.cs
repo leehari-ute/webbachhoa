@@ -170,5 +170,31 @@ namespace BHX_2.Controllers
                 return View();
             }
         }
+        public ActionResult Create()
+        {
+            return View();
+        }
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult Create([Bind(Include = "idUser,Username,Password,Lever,HoTen,Email,Phone,DiaChi,ngaySinh")] User user)
+        {
+            if (Session["Lever"].ToString() == "1")
+            {
+                if (ModelState.IsValid)
+                {
+                    db.Users.Add(user);
+                    db.SaveChanges();
+                    return RedirectToAction("Create");
+                }
+            }  
+            return View();
+        }
+        public ActionResult Delete(int id)
+        {
+            User user = db.Users.Find(id);
+            db.Users.Remove(user);
+            db.SaveChanges();
+            return RedirectToAction("UserIndex","Admin");
+        }
     }
 }

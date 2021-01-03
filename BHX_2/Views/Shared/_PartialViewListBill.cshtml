@@ -219,7 +219,7 @@
                             var tr = $("<tr/>");
                             var confirm = '@(Url.Action("Confirm", "Cart"))';
                             var ship = '@(Url.Action("Ship","Cart"))';
-                            var detail = '@(Url.Action("Details","Cart"))';
+                            var detail = '@(Url.Action("DetailsBill","Cart"))';
                             $("<td/>").html(e.IDCart).appendTo(tr);
                             $("<td/>").html(e.TotalPrice).appendTo(tr);
                             $("<td/>").html(e.Status).appendTo(tr);
@@ -261,7 +261,7 @@
                             var tr = $("<tr/>");
                             var cancel = '@(Url.Action("Cancel","Cart"))';
                             var receive = '@(Url.Action("Received","Cart"))';
-                            var detail = '@(Url.Action("Details","Cart"))';
+                            var detail = '@(Url.Action("DetailsBill","Cart"))';
                             $("<td/>").html(e.IDCart).appendTo(tr);
                             $("<td/>").html(e.TotalPrice).appendTo(tr);
                             $("<td/>").html(e.Status).appendTo(tr);
