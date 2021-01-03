@@ -1,0 +1,970 @@
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\BHX_2.dll.config
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\BHX_2.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\BHX_2.pdb
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\csc.exe
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\csc.exe.config
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\csc.rsp
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\csi.exe
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\csi.exe.config
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\csi.rsp
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\System.AppContext.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\System.Collections.Immutable.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\System.Console.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\System.Globalization.Calendars.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\System.IO.Compression.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\System.IO.FileSystem.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\System.Net.Http.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\System.Net.Sockets.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\System.Reflection.Metadata.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\System.ValueTuple.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\System.Xml.XPath.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\vbc.exe
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\vbc.exe.config
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\vbc.rsp
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\VBCSCompiler.exe
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\roslyn\VBCSCompiler.exe.config
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\Antlr3.Runtime.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\Microsoft.Web.Infrastructure.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\Newtonsoft.Json.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\System.Web.Helpers.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\System.Web.Mvc.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\System.Web.Optimization.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\System.Web.Razor.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\System.Web.WebPages.Deployment.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\System.Web.WebPages.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\System.Web.WebPages.Razor.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\WebGrease.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\System.Web.Helpers.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\System.Web.Mvc.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\System.Web.Optimization.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\System.Web.Razor.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\System.Web.WebPages.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\System.Web.WebPages.Deployment.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\System.Web.WebPages.Razor.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\Newtonsoft.Json.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\Antlr3.Runtime.pdb
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\obj\Debug\BHX_2.csproj.CoreCompileInputs.cache
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\obj\Debug\BHX_2.csproj.CopyComplete
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\obj\Debug\BHX_2.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\obj\Debug\BHX_2.pdb
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\obj\Debug\BHX_2.csprojAssemblyReference.cache
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\EntityFramework.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\EntityFramework.SqlServer.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\EntityFramework.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Code\BHX_2\BHX_2\bin\EntityFramework.SqlServer.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\BHX_2.dll.config
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\BHX_2.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\BHX_2.pdb
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\csc.exe
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\csc.exe.config
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\csc.rsp
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\csi.exe
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\csi.exe.config
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\csi.rsp
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\System.AppContext.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\System.Collections.Immutable.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\System.Console.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\System.Globalization.Calendars.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\System.IO.Compression.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\System.IO.FileSystem.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\System.Net.Http.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\System.Net.Sockets.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\System.Reflection.Metadata.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\System.ValueTuple.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\System.Xml.XPath.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\vbc.exe
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\vbc.exe.config
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\vbc.rsp
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\VBCSCompiler.exe
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\roslyn\VBCSCompiler.exe.config
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\Antlr3.Runtime.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\EntityFramework.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\EntityFramework.SqlServer.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\Microsoft.Web.Infrastructure.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\Newtonsoft.Json.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\System.Web.Helpers.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\System.Web.Mvc.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\System.Web.Optimization.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\System.Web.Razor.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\System.Web.WebPages.Deployment.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\System.Web.WebPages.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\System.Web.WebPages.Razor.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\WebGrease.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\EntityFramework.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\EntityFramework.SqlServer.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\System.Web.Helpers.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\System.Web.Mvc.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\System.Web.Optimization.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\System.Web.Razor.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\System.Web.WebPages.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\System.Web.WebPages.Deployment.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\System.Web.WebPages.Razor.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\Newtonsoft.Json.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\Antlr3.Runtime.pdb
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\obj\Debug\BHX_2.csprojAssemblyReference.cache
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\obj\Debug\BHX_2.csproj.CoreCompileInputs.cache
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\obj\Debug\BHX_2.csproj.CopyComplete
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\obj\Debug\BHX_2.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\BHX_2\BHX_2\obj\Debug\BHX_2.pdb
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\BHX_2.dll.config
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\BHX_2.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\BHX_2.pdb
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\csc.exe
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\csc.exe.config
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\csc.rsp
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\csi.exe
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\csi.exe.config
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\csi.rsp
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\System.Console.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\System.Net.Http.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\vbc.exe
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\vbc.exe.config
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\vbc.rsp
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\Antlr3.Runtime.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\EntityFramework.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\System.Web.Helpers.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\System.Web.Mvc.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\System.Web.Optimization.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\System.Web.Razor.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\System.Web.WebPages.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\WebGrease.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\EntityFramework.xml
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\System.Web.Helpers.xml
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\System.Web.Mvc.xml
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\System.Web.Optimization.xml
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\System.Web.Razor.xml
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\System.Web.WebPages.xml
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\Desktop\BHX_2\BHX_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Desktop\BHX_2\BHX_2\obj\Debug\BHX_2.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\BHX_2\BHX_2\obj\Debug\BHX_2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\BHX_2\BHX_2\obj\Debug\BHX_2.csproj.CopyComplete
+C:\Users\DELL\Desktop\BHX_2\BHX_2\obj\Debug\BHX_2.dll
+C:\Users\DELL\Desktop\BHX_2\BHX_2\obj\Debug\BHX_2.pdb
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\BHX_2.dll.config
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\BHX_2.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\BHX_2.pdb
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\csc.exe
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\csc.exe.config
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\csc.rsp
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\csi.exe
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\csi.exe.config
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\csi.rsp
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\System.AppContext.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\System.Collections.Immutable.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\System.Console.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\System.Globalization.Calendars.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\System.IO.Compression.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\System.IO.FileSystem.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\System.Net.Http.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\System.Net.Sockets.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\System.Reflection.Metadata.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\System.ValueTuple.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\System.Xml.XPath.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\vbc.exe
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\vbc.exe.config
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\vbc.rsp
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\VBCSCompiler.exe
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\roslyn\VBCSCompiler.exe.config
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\Antlr3.Runtime.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\EntityFramework.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\EntityFramework.SqlServer.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\Microsoft.Web.Infrastructure.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\Newtonsoft.Json.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\System.Web.Helpers.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\System.Web.Mvc.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\System.Web.Optimization.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\System.Web.Razor.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\System.Web.WebPages.Deployment.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\System.Web.WebPages.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\System.Web.WebPages.Razor.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\WebGrease.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\EntityFramework.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\EntityFramework.SqlServer.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\System.Web.Helpers.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\System.Web.Mvc.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\System.Web.Optimization.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\System.Web.Razor.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\System.Web.WebPages.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\System.Web.WebPages.Deployment.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\System.Web.WebPages.Razor.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\Newtonsoft.Json.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\Antlr3.Runtime.pdb
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\obj\Debug\BHX_2.csproj.CoreCompileInputs.cache
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\obj\Debug\BHX_2.csproj.CopyComplete
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\obj\Debug\BHX_2.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\obj\Debug\BHX_2.pdb
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\PagedList.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\PagedList.Mvc.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\PagedList.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\bin\PagedList.Mvc.xml
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\BHX_2.dll.config
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\BHX_2.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\BHX_2.pdb
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\csc.exe
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\csc.exe.config
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\csc.rsp
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\csi.exe
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\csi.exe.config
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\csi.rsp
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\System.AppContext.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\System.Console.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\System.IO.Compression.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\System.Net.Http.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\System.ValueTuple.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\vbc.exe
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\vbc.exe.config
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\vbc.rsp
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\VBCSCompiler.exe
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\Antlr3.Runtime.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\EntityFramework.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\EntityFramework.SqlServer.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\Newtonsoft.Json.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\PagedList.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\PagedList.Mvc.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\System.Web.Helpers.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\System.Web.Mvc.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\System.Web.Optimization.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\System.Web.Razor.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\System.Web.WebPages.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\System.Web.WebPages.Razor.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\WebGrease.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\EntityFramework.xml
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\EntityFramework.SqlServer.xml
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\PagedList.xml
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\PagedList.Mvc.xml
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\System.Web.Helpers.xml
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\System.Web.Mvc.xml
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\System.Web.Optimization.xml
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\System.Web.Razor.xml
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\System.Web.WebPages.xml
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\System.Web.WebPages.Razor.xml
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\Newtonsoft.Json.xml
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\Antlr3.Runtime.pdb
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\obj\Debug\BHX_2.csprojAssemblyReference.cache
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\obj\Debug\BHX_2.csproj.CoreCompileInputs.cache
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\obj\Debug\BHX_2.csproj.CopyComplete
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\obj\Debug\BHX_2.dll
+C:\Users\QUYNH\Downloads\BHX_2\BHX_2\obj\Debug\BHX_2.pdb
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\BHX_2.dll.config
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\BHX_2.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\BHX_2.pdb
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\csc.exe
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\csc.exe.config
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\csc.rsp
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\csi.exe
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\csi.exe.config
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\csi.rsp
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\System.AppContext.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\System.Collections.Immutable.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\System.Console.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\System.Globalization.Calendars.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\System.IO.Compression.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\System.IO.FileSystem.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\System.Net.Http.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\System.Net.Sockets.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\System.Reflection.Metadata.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\System.ValueTuple.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\System.Xml.XPath.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\vbc.exe
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\vbc.exe.config
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\vbc.rsp
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\VBCSCompiler.exe
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\roslyn\VBCSCompiler.exe.config
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\Antlr3.Runtime.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\EntityFramework.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\EntityFramework.SqlServer.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\Microsoft.Web.Infrastructure.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\Newtonsoft.Json.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\PagedList.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\PagedList.Mvc.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\System.Web.Helpers.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\System.Web.Mvc.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\System.Web.Optimization.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\System.Web.Razor.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\System.Web.WebPages.Deployment.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\System.Web.WebPages.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\System.Web.WebPages.Razor.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\WebGrease.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\EntityFramework.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\EntityFramework.SqlServer.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\PagedList.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\PagedList.Mvc.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\System.Web.Helpers.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\System.Web.Mvc.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\System.Web.Optimization.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\System.Web.Razor.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\System.Web.WebPages.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\System.Web.WebPages.Deployment.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\System.Web.WebPages.Razor.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\Newtonsoft.Json.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\Antlr3.Runtime.pdb
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\obj\Debug\BHX_2.csprojAssemblyReference.cache
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\obj\Debug\BHX_2.csproj.CoreCompileInputs.cache
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\obj\Debug\BHX_2.csproj.CopyComplete
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\obj\Debug\BHX_2.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\obj\Debug\BHX_2.pdb
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\obj\Debug\BHX_2.Migrations.InitialCreate.resources
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\obj\Debug\BHX_2.csproj.GenerateResource.cache
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\obj\Debug\BHX_2.Migrations.Cart.resources
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\obj\Debug\BHX_2.Migrations.InitialCreate.resources
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\obj\Debug\BHX_2.csproj.GenerateResource.cache
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\obj\Debug\BHX_2.csprojAssemblyReference.cache
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\obj\Debug\BHX_2.Migrations.Cart.resources
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\obj\Debug\BHX_2.Migrations.Cart1.resources
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\obj\Debug\BHX_2.Migrations.Cart2.resources
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\BHX_2\BHX_2\obj\Debug\BHX_2.Migrations.ListCart.resources
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\obj\Debug\BHX_2.Migrations.Cart1.resources
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\obj\Debug\BHX_2.Migrations.Cart2.resources
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\obj\Debug\BHX_2.Migrations.ListCart.resources
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\ClosedXML.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\DocumentFormat.OpenXml.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\ExcelNumberFormat.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\System.IO.Packaging.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\ClosedXML.pdb
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\ClosedXML.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\DocumentFormat.OpenXml.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\ExcelNumberFormat.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\EPPlus.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\Microsoft.IO.RecyclableMemoryStream.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\System.ComponentModel.Annotations.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\EPPlus.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\BHX_2\BHX_2\bin\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\BHX_2.dll.config
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\BHX_2.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\BHX_2.pdb
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\csc.exe
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\csc.exe.config
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\csc.rsp
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\csi.exe
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\csi.exe.config
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\csi.rsp
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\System.AppContext.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\System.Collections.Immutable.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\System.Console.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\System.Globalization.Calendars.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\System.IO.Compression.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\System.IO.FileSystem.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\System.Net.Http.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\System.Net.Sockets.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\System.ValueTuple.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\System.Xml.XPath.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\vbc.exe
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\vbc.exe.config
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\vbc.rsp
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\VBCSCompiler.exe
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\roslyn\VBCSCompiler.exe.config
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\Antlr3.Runtime.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\ClosedXML.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\DocumentFormat.OpenXml.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\EntityFramework.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\EntityFramework.SqlServer.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\EPPlus.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\ExcelNumberFormat.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\Microsoft.Web.Infrastructure.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\Newtonsoft.Json.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\PagedList.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\PagedList.Mvc.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\System.ComponentModel.Annotations.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\System.IO.Packaging.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\System.Web.Helpers.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\System.Web.Mvc.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\System.Web.Optimization.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\System.Web.Razor.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\System.Web.WebPages.Deployment.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\System.Web.WebPages.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\System.Web.WebPages.Razor.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\WebGrease.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\ClosedXML.pdb
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\ClosedXML.xml
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\DocumentFormat.OpenXml.xml
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\EntityFramework.xml
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\EntityFramework.SqlServer.xml
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\EPPlus.xml
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\ExcelNumberFormat.xml
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\PagedList.xml
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\PagedList.Mvc.xml
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\System.Web.Helpers.xml
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\System.Web.Mvc.xml
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\System.Web.Optimization.xml
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\System.Web.Razor.xml
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\System.Web.WebPages.xml
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\System.Web.WebPages.Deployment.xml
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\System.Web.WebPages.Razor.xml
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\Newtonsoft.Json.xml
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\Antlr3.Runtime.pdb
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\obj\Debug\BHX_2.Migrations.InitialCreate.resources
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\obj\Debug\BHX_2.Migrations.Cart.resources
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\obj\Debug\BHX_2.Migrations.Cart1.resources
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\obj\Debug\BHX_2.Migrations.Cart2.resources
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\obj\Debug\BHX_2.Migrations.ListCart.resources
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\obj\Debug\BHX_2.csproj.GenerateResource.cache
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\obj\Debug\BHX_2.csproj.CoreCompileInputs.cache
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\obj\Debug\BHX_2.csproj.CopyComplete
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\obj\Debug\BHX_2.dll
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\obj\Debug\BHX_2.pdb
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\obj\Debug\BHX_2.csprojAssemblyReference.cache
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\obj\Debug\BHX_2.Migrations.User.resources
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\obj\Debug\BHX_2.Migrations.CodeAndInfo.resources
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\BHX_2.dll.config
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\BHX_2.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\BHX_2.pdb
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\csc.exe
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\csc.exe.config
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\csc.rsp
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\csi.exe
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\csi.exe.config
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\csi.rsp
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\System.AppContext.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\System.Collections.Immutable.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\System.Console.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\System.Globalization.Calendars.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\System.IO.Compression.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\System.IO.FileSystem.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\System.Net.Http.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\System.Net.Sockets.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\System.Reflection.Metadata.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\System.ValueTuple.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\System.Xml.XPath.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\vbc.exe
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\vbc.exe.config
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\vbc.rsp
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\VBCSCompiler.exe
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\roslyn\VBCSCompiler.exe.config
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\Antlr3.Runtime.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\ClosedXML.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\DocumentFormat.OpenXml.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\EntityFramework.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\EntityFramework.SqlServer.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\EPPlus.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\ExcelNumberFormat.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\Microsoft.IO.RecyclableMemoryStream.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\Microsoft.Web.Infrastructure.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\Newtonsoft.Json.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\PagedList.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\PagedList.Mvc.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\System.ComponentModel.Annotations.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\System.IO.Packaging.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\System.Web.Helpers.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\System.Web.Mvc.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\System.Web.Optimization.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\System.Web.Razor.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\System.Web.WebPages.Deployment.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\System.Web.WebPages.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\System.Web.WebPages.Razor.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\WebGrease.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\ClosedXML.pdb
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\ClosedXML.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\DocumentFormat.OpenXml.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\EntityFramework.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\EntityFramework.SqlServer.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\EPPlus.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\ExcelNumberFormat.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\Microsoft.IO.RecyclableMemoryStream.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\PagedList.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\PagedList.Mvc.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\System.Web.Helpers.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\System.Web.Mvc.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\System.Web.Optimization.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\System.Web.Razor.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\System.Web.WebPages.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\System.Web.WebPages.Deployment.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\System.Web.WebPages.Razor.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\Newtonsoft.Json.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\Antlr3.Runtime.pdb
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\obj\Debug\BHX_2.csprojAssemblyReference.cache
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\obj\Debug\BHX_2.Migrations.InitialCreate.resources
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\obj\Debug\BHX_2.Migrations.Cart.resources
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\obj\Debug\BHX_2.Migrations.Cart1.resources
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\obj\Debug\BHX_2.Migrations.Cart2.resources
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\obj\Debug\BHX_2.Migrations.ListCart.resources
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\obj\Debug\BHX_2.Migrations.User.resources
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\obj\Debug\BHX_2.Migrations.CodeAndInfo.resources
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\obj\Debug\BHX_2.csproj.GenerateResource.cache
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\obj\Debug\BHX_2.csproj.CoreCompileInputs.cache
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\obj\Debug\BHX_2.csproj.CopyComplete
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\obj\Debug\BHX_2.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\Version\Version_1\Folder_Test\webbachhoa-master\BHX_2\obj\Debug\BHX_2.pdb
+D:\Refferences\This term\Web Programing\BHX_2\BHX_2\obj\Debug\BHX_2.Migrations.Cart4.resources
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\BHX_2.dll.config
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\BHX_2.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\BHX_2.pdb
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\csc.exe
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\csc.exe.config
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\csc.rsp
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\csi.exe
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\csi.exe.config
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\csi.rsp
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\System.AppContext.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\System.Collections.Immutable.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\System.Console.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\System.Globalization.Calendars.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\System.IO.Compression.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\System.IO.FileSystem.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\System.Net.Http.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\System.Net.Sockets.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\System.Reflection.Metadata.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\System.ValueTuple.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\System.Xml.XPath.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\vbc.exe
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\vbc.exe.config
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\vbc.rsp
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\VBCSCompiler.exe
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\roslyn\VBCSCompiler.exe.config
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\Antlr3.Runtime.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\ClosedXML.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\DocumentFormat.OpenXml.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\EntityFramework.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\EntityFramework.SqlServer.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\EPPlus.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\ExcelNumberFormat.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\Microsoft.IO.RecyclableMemoryStream.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\Microsoft.Web.Infrastructure.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\Newtonsoft.Json.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\PagedList.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\PagedList.Mvc.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\System.ComponentModel.Annotations.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\System.IO.Packaging.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\System.Web.Helpers.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\System.Web.Mvc.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\System.Web.Optimization.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\System.Web.Razor.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\System.Web.WebPages.Deployment.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\System.Web.WebPages.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\System.Web.WebPages.Razor.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\WebGrease.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\ClosedXML.pdb
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\ClosedXML.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\DocumentFormat.OpenXml.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\EntityFramework.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\EntityFramework.SqlServer.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\EPPlus.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\ExcelNumberFormat.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\Microsoft.IO.RecyclableMemoryStream.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\PagedList.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\PagedList.Mvc.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\System.Web.Helpers.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\System.Web.Mvc.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\System.Web.Optimization.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\System.Web.Razor.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\System.Web.WebPages.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\System.Web.WebPages.Deployment.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\System.Web.WebPages.Razor.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\Newtonsoft.Json.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\Antlr3.Runtime.pdb
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\obj\Debug\BHX_2.csprojAssemblyReference.cache
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\obj\Debug\BHX_2.Migrations.InitialCreate.resources
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\obj\Debug\BHX_2.Migrations.Cart.resources
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\obj\Debug\BHX_2.Migrations.Cart1.resources
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\obj\Debug\BHX_2.Migrations.Cart2.resources
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\obj\Debug\BHX_2.Migrations.ListCart.resources
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\obj\Debug\BHX_2.Migrations.User.resources
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\obj\Debug\BHX_2.Migrations.CodeAndInfo.resources
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\obj\Debug\BHX_2.Migrations.Cart4.resources
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\obj\Debug\BHX_2.csproj.GenerateResource.cache
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\obj\Debug\BHX_2.csproj.CoreCompileInputs.cache
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\obj\Debug\BHX_2.csproj.CopyComplete
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\obj\Debug\BHX_2.dll
+D:\STUDYING\HK5-2020\Lập trình Web\Cuối kì\CuoiKi_1\webbachhoa-master\BHX_2\obj\Debug\BHX_2.pdb
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\BHX_2.dll.config
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\BHX_2.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\BHX_2.pdb
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\csc.exe
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\csc.exe.config
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\csc.rsp
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\csi.exe
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\csi.exe.config
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\csi.rsp
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\System.AppContext.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\System.Collections.Immutable.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\System.Console.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\System.Globalization.Calendars.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\System.IO.Compression.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\System.IO.FileSystem.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\System.Net.Http.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\System.Net.Sockets.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\System.ValueTuple.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\System.Xml.XPath.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\vbc.exe
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\vbc.exe.config
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\vbc.rsp
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\VBCSCompiler.exe
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\roslyn\VBCSCompiler.exe.config
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\Antlr3.Runtime.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\ClosedXML.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\DocumentFormat.OpenXml.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\EntityFramework.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\EntityFramework.SqlServer.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\EPPlus.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\ExcelNumberFormat.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\Microsoft.Web.Infrastructure.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\Newtonsoft.Json.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\PagedList.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\PagedList.Mvc.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\System.ComponentModel.Annotations.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\System.IO.Packaging.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\System.Web.Helpers.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\System.Web.Mvc.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\System.Web.Optimization.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\System.Web.Razor.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\System.Web.WebPages.Deployment.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\System.Web.WebPages.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\System.Web.WebPages.Razor.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\WebGrease.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\ClosedXML.pdb
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\ClosedXML.xml
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\DocumentFormat.OpenXml.xml
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\EntityFramework.xml
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\EntityFramework.SqlServer.xml
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\EPPlus.xml
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\ExcelNumberFormat.xml
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\PagedList.xml
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\PagedList.Mvc.xml
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\System.Web.Helpers.xml
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\System.Web.Mvc.xml
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\System.Web.Optimization.xml
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\System.Web.Razor.xml
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\System.Web.WebPages.xml
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\System.Web.WebPages.Deployment.xml
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\System.Web.WebPages.Razor.xml
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\Newtonsoft.Json.xml
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\Antlr3.Runtime.pdb
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\obj\Debug\BHX_2.csprojAssemblyReference.cache
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\obj\Debug\BHX_2.Migrations.InitialCreate.resources
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\obj\Debug\BHX_2.Migrations.Cart.resources
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\obj\Debug\BHX_2.Migrations.Cart1.resources
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\obj\Debug\BHX_2.Migrations.Cart2.resources
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\obj\Debug\BHX_2.Migrations.ListCart.resources
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\obj\Debug\BHX_2.Migrations.User.resources
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\obj\Debug\BHX_2.Migrations.CodeAndInfo.resources
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\obj\Debug\BHX_2.Migrations.Cart4.resources
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\obj\Debug\BHX_2.csproj.GenerateResource.cache
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\obj\Debug\BHX_2.csproj.CoreCompileInputs.cache
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\obj\Debug\BHX_2.csproj.CopyComplete
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\obj\Debug\BHX_2.dll
+D:\Refferences\This term\Web Programing\webbachhoa-master\BHX_2\obj\Debug\BHX_2.pdb

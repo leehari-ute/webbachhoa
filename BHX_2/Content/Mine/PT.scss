@@ -1,0 +1,87 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Lato:700');
+
+
+/*$grad: linear-gradient(45deg, darken(#3ac8ff,15), #3ac8ff);*/
+/*$gradh: linear-gradient(45deg, darken(#3ac8ff,10), #3ac8ff);*/
+
+body {
+    margin-top: 10%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #efefef;
+    font-family: 'Lato', sans-serif;
+}
+
+.pagination {
+    overflow: hidden;
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 20px 0 #000;
+    font-size: 1.5em;
+    display: flex;
+    position: relative;
+    user-select: none;
+}
+
+    .nav-btn
+{
+    font-family: Font Awesome\ 5 Free;
+    font-weight: 900;
+    background: linear-gradient(45deg, darken(#3ac8ff,15), #3ac8ff);
+    display: inline-block;
+    padding: 18px 24px;
+    color: #000;
+    z-index: 2;
+    cursor: pointer;
+    text-shadow: 0 0 0 #000;
+    box-shadow: 0 0 10px 0 #fff;
+    transition: all 300ms ease;
+
+}
+
+.nav-btn:hover {
+    background: linear-gradient(45deg, darken(#3ac8ff,15), #3ac8ff);
+    text-shadow: 0 0 0 #fff;
+}
+
+.nav-pages.next {
+            position: absolute;
+            right: 0;
+        }
+
+.nav-btn.prev::before {
+            content: "\f053";
+        }
+
+.nav-pages.next::before {
+            content: "\f054";
+        }
+    
+
+    .nav-pages {
+        margin: 0;
+        padding: 0;
+        left: 0;
+        transition: left 300ms ease;
+        position: absolute;
+        width: 100%;
+        }
+ .nav-pages       li {
+            list-style: none;
+            display: inline-block;
+            padding: 18px 10px;
+            border-right: 1px solid #eee;
+            color: #000;
+            text-align: center;
+            cursor: pointer;
+ }
+
+ .nav-pages           .active, :hover {
+                color: #000;
+            }
+        
+    
+

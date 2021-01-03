@@ -1,0 +1,83 @@
+﻿@model List<BHX_2.Models.Cart>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout_1.cshtml";
+}
+
+<h2 class="gio">GIỎ HÀNG</h2>
+
+@if (Model == null)
+{
+    <p class="thongbao">Không có sản phẩm trong giỏ hàng</p>
+}
+else
+{
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="table-responsive">
+                <table class="table-bordered">
+                    <tr>
+                        <th>Mã sản phẩm</th>
+                        <th>Tên sản phẩm</th>
+                        <th>Số lượng</th>
+                        <th>Đơn giá</th>
+                        <th>Thành tiền</th>
+                    </tr>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td class="text-center">@item.ID</td>
+                            <td><a class="name_product" target="_blank" href="@Url.Action("Details","SANPHAMs",new { ProductID=item.ID})">@item.ProductName</a></td>
+                            <td>
+                                <form action="@Url.Action("Update",new { ProductID = item.ID})" method="get">
+                                    <input type="hidden" name="ProductID" value="@item.ID" />
+                                    <input type="number" min="1" name="txtSoLuong" value="@item.Amount" />
+                                    <button type="submit" class="btn btn-success btn-sm">Cập nhập</button>
+                                </form>
+                            </td>
+                            <td>@item.Price.ToString() VNĐ</td>
+                            <td>@item.TotalPrice.ToString() VNĐ</td>
+                            <td>
+                                <a href="@Url.Action("DelCartItem",new { ProductID = item.ID})" onclick="return confirm('Xóa sản phẩm này?')" class="btn btn-danger btn-sm"> Xóa </a>
+                            </td>
+                        </tr>
+                    }
+                    <tr>
+                        <td></td>
+                        <td class="text-left">Tổng số lượng</td>
+                        <td class="text-center"> @Model.Sum(m => m.Amount)</td>
+                        <td class="text-left">Tổng thành tiền</td>
+                        <td class="text-center">@Model.Sum(m => m.TotalPrice) VNĐ</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td colspan="6">
+                            @if (Session["Username"] == null)
+                            {
+                                <form action="@Url.Action("Order","Cart")" method="get" onclick="return confirm('Bạn cần đăng nhập để đặt hàng')">
+                                    @*Đặt hàng qua Email : <input type="email" name="Email" />*@
+                                    <input type="submit" value="Đặt hàng" class="btn btn-success btn-sm" />
+                                    <a class="btn btn-success btn-sm" href="@Url.Action("HomeBHX","HomeBHX")"> Quay Lại Trang Chủ</a>
+                                </form>
+                            }
+                            else
+                            {
+                                <form action="@Url.Action("Order","Cart")" method="get" >
+                                    @*Đặt hàng qua Email : <input type="email" name="Email" />*@
+                                    <input type="submit" value="Đặt hàng" class="btn btn-success btn-sm" />
+                                    <a class="btn btn-success btn-sm" href="@Url.Action("HomeBHX","HomeBHX")"> Quay Lại Trang Chủ</a>
+                                </form>
+                            }
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+}
+<div>
+    <label class="label label-danger">@ViewBag.Er</label>
+</div>
+
+<link rel="stylesheet" href="~/Content/Mine/cart.css">

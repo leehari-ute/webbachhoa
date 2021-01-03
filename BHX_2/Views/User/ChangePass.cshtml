@@ -1,0 +1,42 @@
+﻿@model BHX_2.Models.User
+@{
+    ViewBag.Title = "ChangPass";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+<link href="~/Content/Mine/user.css" rel="stylesheet" />
+
+<form class="form-login" action="ChangePass" method="get">
+    <div class="loginbox">     
+        <h2>
+            Đổi mật khẩu
+        </h2>
+        <div>
+            <div class="div-title">
+                <ul>
+                    <li>Mật khẩu cũ:</li>
+                    <li><input class="input1_1" type="password" name="pass" placeholder="Mật khẩu cũ" required /></li>
+                </ul>
+                
+            </div>
+            
+            <div class="div-title">
+                <ul>
+                    <li>Mật khẩu mới:</li>
+                    <li><input class="input1_2" type="password" name="newpass1" placeholder="Mật khẩu mới" required /></li>
+                </ul>
+                
+            </div>
+          
+            <div class="div-title">
+                <ul>
+                    <li>Xác nhận mật khẩu mới:</li>
+                    <li><input class="input1_3" type="password" name="newpass2" placeholder="Xác nhận lại mật khẩu" required /></li>
+                </ul>
+                
+            </div>
+            
+            <input class="input-button" type="submit" name="ChangePass" value="Đổi mật khẩu" />
+        </div>
+    </div>
+</form>
+

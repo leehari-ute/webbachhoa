@@ -1,0 +1,15 @@
+﻿@model PagedList.IPagedList<BHX_2.Models.Product>
+@using PagedList.Mvc
+
+
+<link rel="stylesheet" href="~/Content/Mine/Milk.css">
+
+@{
+    ViewBag.Title = "Danh mục sản phẩm";
+    //Layout = "~/Views/Shared/_Layout_1.cshtml";
+}
+
+<div id="milk">   
+    @{Html.RenderAction("LoadList", "ListProducts", new { page = 1 });}    
+</div>
+

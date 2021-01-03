@@ -1,0 +1,60 @@
+﻿@model BHX_2.Models.User
+@{
+    ViewBag.Title = "Personal";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1 style="font-size: 30px; margin-left: 46%">Thông tin tài khoản</h1>
+<br />
+<form class="form-login" action="ForgotPassword" method="get">
+    <div class="inf" >
+        <ul>
+            <li>Tên tài khoản:</li>
+            <li>@Model.Username</li>
+        </ul>
+        
+    </div>
+    <div class="inf_s" >
+        <ul>
+            <li>Tên:</li>
+            <li>@Model.HoTen</li>
+        </ul>
+      
+    </div>
+    <div class="inf" >
+        <ul>
+            <li>Ngày sinh:</li>
+            <li>@Model.ngaySinh.ToString("dd/MM/yyyy")</li>
+        </ul>
+        
+    </div>
+    <div class="inf_s">
+        <ul>
+            <li>Địa chỉ:</li>
+            <li>@Model.DiaChi</li>
+        </ul>
+         
+    </div>
+    <div class="inf">
+        <ul>
+            <li>Email:</li>
+            <li>@Model.Email</li>
+        </ul>
+         
+    </div>
+    <div class="inf_s">
+        <ul>
+            <li>Số điện thoại:</li>
+            <li>@Model.Phone</li>
+        </ul>
+        
+    </div>
+    <div style="text-align: center;margin-left: 25px;background: #088608;height: 39px;line-height: 39px; width: 69%;margin-left: 21%;margin-top: 31px;text-decoration: :none;border: 2px solid black;">
+        <a style="text-decoration: none;color: white;font-size: 25px;" href="/User/ChangePass">Đổi mật khẩu</a>
+    </div>
+    <div style="text-align: center;margin-left: 25px;background: #088608;height: 39px;line-height: 39px; width: 69%;margin-left: 21%;margin-top: 31px;text-decoration: :none;border: 2px solid black;">
+        <a style="text-decoration: none;color: white;font-size: 25px;" href="/User/ChangeInfo">Cập nhật thông tin</a>
+    </div>
+</form>
+
+<link href="~/Content/Mine/personal.css" rel="stylesheet" />

@@ -1,0 +1,19 @@
+﻿@model PagedList.IPagedList<BHX_2.Models.Product>
+@using PagedList.Mvc
+
+<link rel="stylesheet" href="~/Content/Mine/PagedList.css">
+
+@{
+    //ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout_1.cshtml";
+}
+<div id="milk">
+    @Html.Raw(ViewBag.View)
+</div>
+
+    Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber)/@Model.PageCount
+    @Html.PagedListPager(Model, page  => Url.Action("LoadList", new { page, KeyG = ViewBag.keyG }),
+  PagedListRenderOptions.EnableUnobtrusiveAjaxReplacing(new AjaxOptions()
+  { HttpMethod = "GET", UpdateTargetId = "milk" }))
+
+

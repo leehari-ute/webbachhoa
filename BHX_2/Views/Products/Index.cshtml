@@ -1,0 +1,25 @@
+﻿@model PagedList.IPagedList<BHX_2.Models.Product>
+@using PagedList.Mvc
+
+<link rel="stylesheet" href="~/Content/Mine/PagedList.css">
+
+@{
+    ViewBag.Title = "Index";
+    //Layout = "~/Views/Shared/_Layout_1.cshtml";
+}
+
+<h2>Sản phẩm</h2>
+<div id="product_area">
+    @{Html.RenderAction("GetPaging", "Products", new { page = 1 });}
+</div>
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+<div>
+    <a href="@Url.Action("DownloadExcel","Excel")">Download Excel</a>
+</div>
+
+
+
+

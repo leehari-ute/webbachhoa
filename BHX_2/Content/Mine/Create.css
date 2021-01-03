@@ -1,0 +1,42 @@
+﻿body {
+}
+
+#txtInput{
+
+}
+#create {
+	margin-left: 23%;
+	margin-right: 23%;
+}
+
+#create h4{
+	font-size: 22px;
+    color: white;
+    text-align: -webkit-center;
+    background-color: blueviolet;
+    height: 50px;
+    line-height: 50px;
+}
+.cr{
+	margin-left: 20%;
+}
+
+.form-control {
+	width: 50%;
+    
+}
+
+.back{
+    text-decoration:none;
+}
+
+.back h1 {
+    font-size: 22px;
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    margin-left: 23%;
+    margin-right: 23%;
+    height: 50px;
+    line-height: 50px;
+}
