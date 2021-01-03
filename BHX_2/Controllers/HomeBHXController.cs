@@ -22,7 +22,7 @@ namespace BHX_2.Controllers
             return View();
         }
 
-        public ActionResult HomeBHX(string searchName ="")
+        public ActionResult HomeBHX()
         {
             string chuoi = "";
 
@@ -31,15 +31,7 @@ namespace BHX_2.Controllers
             {
                 chuoi += "<div class=\"rau_1\">";
                 chuoi += "<h5> <i class=\"fas fa-hand-point-right\"> </i> </h5>";
-                var product = (from p in db.Products where p.ProductGroup == G orderby p.ProductID descending select p).ToList();
-                if (!String.IsNullOrEmpty(searchName))
-                {
-                    product = product.Where(s => s.ProductName.Contains(searchName)).Take(5).ToList();
-                }
-                else
-                {
-                    product = product.Take(5).ToList(); 
-                }
+                var product = (from p in db.Products where p.ProductGroup == G orderby p.ProductID descending select p).Take(5).ToList();              
                 chuoi += "<h1>" + G + "</h1>";
                 chuoi += "</div>";
                 for (int i = 0; i < product.Count; i++)
@@ -71,12 +63,18 @@ namespace BHX_2.Controllers
             ViewBag.View = chuoi;
             return View();
         }
-        public ActionResult Search()
+        public ActionResult Search(string searchName = "")
         {
-           // var pro = (from p in db.Products where  orderby productId descending select p).ToList();
-           // từ từ :>
-
-            return View();
+            if (!String.IsNullOrEmpty(searchName))
+            {
+                var product = db.Products.Where(s => s.ProductName.Contains(searchName)).ToList();
+                return View(product);
+            }
+            else
+            {
+                return View("HomeBHX");
+            }
+            
         }
         public ActionResult ThongTin()
         {

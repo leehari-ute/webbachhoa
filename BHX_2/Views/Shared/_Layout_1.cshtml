@@ -40,7 +40,8 @@
 
             </div>
             <div class="header-3">
-                @using (Html.BeginForm())
+                @using (Html.BeginForm("Search",
+    "HomeBHX", FormMethod.Get, new { enctype = "multipart/form-data" }))
                 {
                     <p>
                         <div style="font-weight:bold">Tìm kiếm: @Html.TextBox("searchName")</div>
