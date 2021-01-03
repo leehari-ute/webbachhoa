@@ -2230,7 +2230,8 @@
     <Content Include="Views\User\ChangeInfo.cshtml" />
     <Content Include="Views\Cart\Chart.cshtml" />
     <Content Include="Views\User\Create.cshtml" />
-    <Content Include="Views\User\Delete.cshtml" />
+    <Content Include="Views\Admin\Delete.cshtml" />
+    <Content Include="Views\Admin\Details.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Image\" />

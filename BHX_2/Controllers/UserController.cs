@@ -189,12 +189,6 @@ namespace BHX_2.Controllers
             }  
             return View();
         }
-        public ActionResult Delete(int id)
-        {
-            User user = db.Users.Find(id);
-            db.Users.Remove(user);
-            db.SaveChanges();
-            return RedirectToAction("UserIndex","Admin");
-        }
+        
     }
 }

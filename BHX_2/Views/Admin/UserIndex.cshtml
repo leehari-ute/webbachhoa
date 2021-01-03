@@ -41,11 +41,8 @@
                 @Html.DisplayFor(modelItem => item.Email)
             </td>
             <td>
-                @using (Html.BeginForm())
-                {
-                    @Html.AntiForgeryToken()
-                                    <input type="submit" value="Delete" class="btn btn-default" /> } |
-                @Html.ActionLink("Chi tiết", "Details", "User", new { id = item.idUser })
+                @Html.ActionLink("Xóa", "Delete", new { id = item.idUser }) |
+                @Html.ActionLink("Chi tiết", "Details", new { id = item.idUser })
             </td>
         </tr>
     }
