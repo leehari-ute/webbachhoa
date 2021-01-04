@@ -1,22 +1,26 @@
 ﻿@model IEnumerable<BHX_2.Models.Product>
 @{
-    ViewBag.Title = "Search";
+    ViewBag.Title = "Tìm kiếm sản phẩm";
     Layout = "~/Views/Shared/_Layout_1.cshtml";
 }
 
-<h2>Search</h2>
-<div>
-    <ul>
-        @foreach (var item in Model)
-        {
-            <li>
-                <img class="imgrau" src="/@item.UrlImage" />
-                <h3> @item.ProductName</h3>
-                <h2>@item.Price đồng</h2>
-                <h4 class="giohang">   <i class="fas fa-shopping-cart"></i>
-                     @Html.ActionLink("AddtoCart", "Cart", new { ProductID = item.ProductID})                
-                </h4>
-            </li>
-        }
-    </ul>
+<link href="~/Content/Mine/search.css" rel="stylesheet" />
+
+<div class="body_search">
+    <div class="search">
+        <ul>
+            @foreach (var item in Model)
+            {
+<li>
+    <img class="imgrau" src="/@item.UrlImage" />
+    <h3> @item.ProductName</h3>
+    <h2>@item.Price đồng</h2>
+    <h4 class="giohang">
+        <i class="fas fa-shopping-cart"></i>
+       <a href="@Url.Action("AddtoCart","Cart", new { ProductID = item.ProductID }) ">Mua</a>       
+    </h4>
+</li>
+}
+        </ul>
+    </div>
 </div>

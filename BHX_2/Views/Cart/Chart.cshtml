@@ -4,9 +4,20 @@
     Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
 }
 
-    <h2>Doanh thu</h2>
-    <button id="nam" class="doanhthu-button">Năm qua</button>
-    <button id="thang" class="doanhthu-button">Tháng qua</button>
+<div style="text-align: center;">
+    <h2>Doanh thu cửa hàng</h2>
+    <ul style="display: flex;margin-left: 36%;">
+        <li style="list-style-type: none">
+            <button id="nam" class="doanhthu-button">Năm qua</button>
+        </li>
+        <li style="list-style-type: none">
+            <button id="thang" class="doanhthu-button">Tháng qua</button>
+        </li>
+    </ul>
+
+
+</div>
+    
     <canvas id="myChart"></canvas>
     <link href="~/Content/Mine/chart.css" rel="stylesheet" />
     <script src="~/Content/Chartjs/Chart.bundle.js"></script>

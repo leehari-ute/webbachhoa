@@ -98,10 +98,10 @@
                     </ul>
                 </li>
 
-                <li><a href="~/ThongTin/ThongTin">Thông tin</a></li>
-                <li><a href="~/KhachHang/KhachHang">Khách hàng thân thiết</a></li>
-                <li><a href="~/HoiDap/HoiDap">Hỏi đáp</a></li>
-                <li><a href="~/LienHe/LienHe">Liên hệ</a></li>
+                <li><a href="~/HomeBHX/ThongTin">Thông tin</a></li>
+                <li><a href="~/HomeBHX/KhachHang">Khách hàng thân thiết</a></li>
+                <li><a href="~/HomeBHX/HoiDap">Hỏi đáp</a></li>
+                <li><a href="~/HomeBHX/LienHe">Liên hệ</a></li>
             </ul>
         </div><!--Menu-->
 
@@ -120,10 +120,10 @@
                                     <li><button onclick="location.href='@Url.Action("GetPaging","Products", new { page =1})'">Sản phẩm</button></li>
                                     <li><button onclick="location.href='@Url.Action("GetPaging","Cart", new { page = 1 })'">Đơn bán</button></li>
                                     <li><button onclick="location.href='@Url.Action("Chart","Cart")'">Doanh Thu</button></li>
+                                    
                                 }
                                 else if (Session["Lever"] == "3")
                                 {
-                                    <li><button onclick="location.href='@Url.Action()'">Bakayaruo</button></li>
                                     <li><button onclick="location.href='@Url.Action("Personal","User")'">Tài khoản cá nhân</button></li>
                                     <li><button onclick="location.href='@Url.Action("GetPaging","Cart",new { page =1})'">Đơn mua</button></li>
                                 }

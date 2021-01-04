@@ -2094,6 +2094,7 @@
     <Content Include="Content\Mine\PagedList.css" />
     <Content Include="Content\Mine\personal.css" />
     <Content Include="Content\Mine\Product_Milk.css" />
+    <Content Include="Content\Mine\search.css" />
     <Content Include="Content\Mine\Site.css" />
     <Content Include="Content\Mine\StyleSheet1.css" />
     <Content Include="Content\Mine\layout.css" />

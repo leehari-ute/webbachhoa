@@ -1,10 +1,15 @@
 ﻿body {
 }
+
 #nam {
     color: white;
     background-color: #088608;
+    font-size: 20px;
 }
+
 #thang {
     color: white;
     background-color: #088608;
+    font-size: 20px;
+    margin-left: 50px;
 }

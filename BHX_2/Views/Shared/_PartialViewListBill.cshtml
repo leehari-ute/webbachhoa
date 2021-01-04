@@ -25,6 +25,7 @@
         padding: 15px;
         width: 100%;
         font-size: 13px;
+        margin-left: 44px;
     }
 
     button:focus {
@@ -66,13 +67,15 @@
     }
 
         .orders table th {
-            background-color: #e5e5e5;
+            background-color: #000000;
         }
 
     .orders th, td {
         padding: 15px;
-        color: dimgray;
+        color: #636161;
         text-align: left;
+        border: 1px solid beige;
+        background: #a464ed73;
     }
 
     .user-menu-button {
@@ -194,10 +197,13 @@
 
 <br />
 <br />
+<div style="margin-left: 10px">
     Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber)/@Model.PageCount
     @Html.PagedListPager(Model, page => Url.Action("GetPaging", new { page }),
-        PagedListRenderOptions.EnableUnobtrusiveAjaxReplacing(new AjaxOptions()
-        { HttpMethod = "GET", UpdateTargetId = "product_area" }))
+            PagedListRenderOptions.EnableUnobtrusiveAjaxReplacing(new AjaxOptions()
+            { HttpMethod = "GET", UpdateTargetId = "product_area" }))
+</div>
+   
 
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
