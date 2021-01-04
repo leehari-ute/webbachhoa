@@ -41,7 +41,7 @@ namespace BHX_2.Controllers
                         int code = rd.Next(100000, 999999);
                         CodeAndInfo newCode = new CodeAndInfo()
                         {
-                            ID = 0, // bang 0 doi mat khau
+                            level = 0, // bang 0 doi mat khau
                             newPass = newpass1,
                             code = code,
                             newBirth = DateTime.Now,
@@ -105,7 +105,7 @@ namespace BHX_2.Controllers
                         }
                         CodeAndInfo newCode = new CodeAndInfo()
                         {
-                            ID = 1, //bang 1 doi thong tin
+                            level = 1, //bang 1 doi thong tin
                             code = code,
                             newBirth = DateTime.Parse(birthday),
                             newAdd = address,
@@ -138,18 +138,18 @@ namespace BHX_2.Controllers
         }
         public ActionResult ConfirmCode(int code)
         {
-            if (code == db.codeAndInfos.FirstOrDefault().code)
+            if (code.ToString().Trim() == db.codeAndInfos.FirstOrDefault().code.ToString().Trim())
             {
                 string uname = Session["Username"].ToString();
                 var user = db.Users.Where(s => s.Username == uname).FirstOrDefault();
-                if (db.codeAndInfos.FirstOrDefault().ID == 0)
+                if (db.codeAndInfos.FirstOrDefault().level == 0)
                 {
                     user.Password = db.codeAndInfos.FirstOrDefault().newPass.Trim();
                     db.SaveChanges();
                     var delCode = db.codeAndInfos.FirstOrDefault();
                     db.codeAndInfos.Remove(delCode);
                     db.SaveChanges();
-                    return View("Personal");
+                    return View("Index");
                 }
                 else
                 {
@@ -162,7 +162,7 @@ namespace BHX_2.Controllers
                     var delCode = db.codeAndInfos.FirstOrDefault();
                     db.codeAndInfos.Remove(delCode);
                     db.SaveChanges();
-                    return View("Personal");
+                    return View("Index");
                 }
             }
             else

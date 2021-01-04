@@ -15,7 +15,6 @@ namespace BHX_2.Models
         }
         public DbSet<User> Users { get; set; }
         public DbSet<Product> Products { get; set; }
-        public DbSet<Role> Roles { get; set; }
         public DbSet<Cart> Carts { get; set; }
         public DbSet<ListCart> listCarts { get; set; }
         public DbSet<CodeAndInfo> codeAndInfos { get; set; }

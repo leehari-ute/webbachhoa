@@ -5,11 +5,11 @@
 }
 <link href="~/Content/Mine/confirmcode.css" rel="stylesheet" />
 
-<form class="form-login" action="ConfirmCode" method="get">
+<form class="form-login" action="ConfirmCode" method="post">
     <div class="div-title">
         <ul>
-            <li> Mã xác nhận: <input class="input1" type="number" name="code" placeholder="000000" required /></li>
-                
+            <li class="mxn"> Mã xác nhận:  </li>
+            <li class="code"><input class="input1" type="number" name="code" placeholder="000000" required /></li>  
         </ul>    
     </div>
     <input class="input-button" type="submit" name="ConfirmCode" value="Xác nhận" />

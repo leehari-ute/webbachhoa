@@ -37,14 +37,16 @@
 }
 .div-title ul {
     display: flex;
+    margin-left: 34%;
 }
 
     .div-title ul li {
         list-style-type: none;
-        padding-right: 5%;
+        /* padding-right: 5%; */
         background: #b8b8fb54;
-        width: 20%;
-        margin-left: 40%;
+        width: 26%;
+        /* margin-left: 40%; */
+        height: 127px;
     }
 
 .input-button {
@@ -53,5 +55,15 @@
     margin-left: 50%;
     background: #35af43;
     /* color: white; */
-    margin-top: 70px;
+    margin-top: 22px;
+}
+
+.mxn{
+    font-size: 25px;
+    text-align: center;
+}
+
+.code{
+    font-size: 20px;
+    /* margin-left: -14px; */
 }

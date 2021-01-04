@@ -208,12 +208,15 @@
     <Compile Include="Migrations\202101031215455_Cart4.designer.cs">
       <DependentUpon>202101031215455_Cart4.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202101040325435_code2.cs" />
+    <Compile Include="Migrations\202101040325435_code2.designer.cs">
+      <DependentUpon>202101040325435_code2.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Cart.cs" />
     <Compile Include="Models\CodeAndInfo.cs" />
     <Compile Include="Models\ListCart.cs" />
     <Compile Include="Models\Product.cs" />
-    <Compile Include="Models\Role.cs" />
     <Compile Include="Models\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -2276,6 +2279,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202101031215455_Cart4.resx">
       <DependentUpon>202101031215455_Cart4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202101040325435_code2.resx">
+      <DependentUpon>202101040325435_code2.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

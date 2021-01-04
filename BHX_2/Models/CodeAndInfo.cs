@@ -1,7 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Web;
 
@@ -9,9 +7,8 @@ namespace BHX_2.Models
 {
     public class CodeAndInfo
     {
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int ID { get; set; }
-        [Key]
+        public int level { get; set; }
         public int code { get; set; }
         public string newPass { get; set; }
         public string newMail { get; set; }
