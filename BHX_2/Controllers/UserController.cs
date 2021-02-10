@@ -105,6 +105,7 @@ namespace BHX_2.Controllers
                         }
                         CodeAndInfo newCode = new CodeAndInfo()
                         {
+                            ID = 0,
                             level = 1, //bang 1 doi thong tin
                             code = code,
                             newBirth = DateTime.Parse(birthday),

@@ -1,0 +1,32 @@
+﻿.around h4 {
+    font-size: 25px;
+    margin-left: 5%;
+    width: 50%;
+    background: #a52fe4;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    color: white;
+}
+
+.dl-horizontal dt {
+    margin-left: 5%;
+    font-size: 20px;
+    width: 47%;
+    background: beige;
+    height: 16px;
+    padding: 18px;
+    border: 1px solid black;
+    font-weight: bold;
+}
+
+.dl-horizontal dd {
+    margin-left: 5%;
+    font-size: 20px;
+    width: 47%;
+    background: beige;
+    height: 16px;
+    padding: 18px;
+    border: 1px solid darkslateblue;
+    color: blueviolet;
+}

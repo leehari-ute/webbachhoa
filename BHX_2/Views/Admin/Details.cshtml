@@ -4,7 +4,7 @@
     Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
 }
 
-<div>
+<div class="around">
     <h4>Chi tiết</h4>
     <hr />
     <dl class="dl-horizontal">
@@ -24,7 +24,11 @@
             @Html.DisplayFor(model => model.Password)
         </dd>
     </dl>
-            @Html.ActionLink("Back to List", "UserIndex", "Admin")
+    <a style="margin-left: 5%;text-decoration: none;font-size: 22px;color: blueviolet;font-weight: bold;" href="/Admin/UserIndex">Back to List</a>
 </div>
 
 <link rel="stylesheet" href="~/Content/Mine/Create.css">
+<link href="~/Content/Mine/details.css" rel="stylesheet" />
+
+
+
